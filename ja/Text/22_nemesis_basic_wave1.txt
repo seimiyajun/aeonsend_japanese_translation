@@ -1,0 +1,195 @@
+﻿// wave1
+// 階層1 アタック
+Skewer=串刺し
+Unleash.\r\nプレイヤー1人 suffers 3 damage and draws a card.=暴走。<br>プレイヤー1人は3ダメージを受け、カードを1枚引く。
+<i>"It takes years to train a breach mage properly, but only a second to snuff one out."</i> <smallcaps>マラスター, Breach Mage Mentor</smallcaps>=<i>"破孔魔術師の訓練には何年もかかるが、退治するのは一瞬だ"</i> <smallcaps>マラスター、破孔魔術師のメンター</smallcaps>
+
+Slaughter=虐殺
+Unleash.\r\nGravehold suffers 3 damage.=暴走。<br>グレイヴホールドは3ダメージを受ける。
+<i>"We have nothing left to lose but our lives."</i> <smallcaps>ミスト, Breach Mage Dagger Captain</smallcaps>=<i>"失うものは命しかない"</i> <smallcaps>ミスト、破孔魔術師ダガーキャプテン</smallcaps>
+
+
+
+// 階層1 パワー
+Decimate=間引き
+Unleash twice and プレイヤー1人 gains 2 charges.\r\n<b>OR</b>\r\nGravehold suffers 4 damage.=暴走(2回)。<br>プレイヤー1人は2チャージを得る。<br><b>または</b><br>グレイヴホールドは4ダメージを受ける。
+<i>"The days seem shorter as we approach a war eternal."</i> <smallcaps>Nerva, Survivor</smallcaps>=<i>"永遠の戦争に近づくにつれ、日が短く感じられる。"</i> <smallcaps>ネルヴァ、生存者</smallcaps>
+Unleash twice and プレイヤー1人 gains 2 charges=暴走(2回)。<br>プレイヤー1人は2チャージを得る
+
+
+Agony Field=苦悩の空間
+<b>TO DISCARD:</b> Destroy a card in hand that costs <nobr>2 <sprite name\="Aether" color\=#FFFFFF></nobr> or more.\r\n<b>POWER 2:</b> Unleash. プレイヤー1人 discards three cards and then draws one card.=<b>廃棄: </b>自分の手札の 2 <sprite name\="Aether" color\=#FFFFFF> 以上のカードを破壊する。 <br><b>パワー2: </b> 暴走。プレイヤー1名は自分の手札にあるカードを3枚捨て、その後カードを1枚引く。
+<i>"Every breath is torment."</i> <smallcaps>Nerva, Survivor</smallcaps>=<i>"すべての呼吸は苦悩である"</i> <smallcaps>ネルヴァ、生存者</smallcaps>
+
+Bleed Static=ブリード静電
+<b>POWER 3:</b> The player with the most prepped spells suffers 2 damage for each of their prepped spells.=<b>パワー3: </b> セットしている呪文が最も多いプレイヤーは、そのセットしている呪文1つにつき2ダメージを受ける。
+<i>"There are no words to describe the sound of a breach opening. Only the screams echoing off the cave walls after."</i> <smallcaps>ザーナ, Breach Mage Renegade</smallcaps>=<i>"破孔が開く音を表現する言葉はない。 ただ、洞窟の壁に響く悲鳴が後を追う。"</i> <smallcaps>ザーナ、追放の破孔魔術師</smallcaps>
+
+Woven Sky=織りなす空
+<b>TO DISCARD:</b> Discard three cards in hand.\r\n<b>POWER 2:</b> Unleash.\r\nプレイヤー1人 suffers 4 damage.=<b>廃棄: </b> 手札を3枚捨てる。<br><b>パワー2: </b> 暴走。<br>プレイヤー1人は4ダメージを受ける。
+ニム looked up in awe as マラスター pointed to the roiling air at the dome of the cave. "Those, boy, are stars."=マラスターが洞窟のドームを指差すと、ニムは畏敬の念を抱いて顔を上げた。
+
+
+// 階層1 ミニオン
+Haze Spewer=霞吐く物
+<b>PERSISTENT:</b> Gravehold suffers damage equal to this minion's current life. Then, this minion suffers 1 damage.=<b>継続:</b>グレイヴホールドはこのミニオンの現在の体力に等しいダメージを受ける。その後、このミニオンは1ダメージを受ける。
+The fumes they belch are so caustic that they rarely live long themselves.=<i>彼らが吐き出す煙は非常に苛酷で、彼ら自身が長生きすることはほとんどない。</i>
+
+Bane Sire=ベインサイア
+<b>PERSISTENT:</b> Unleash.=<b>継続:</b>暴走
+<i>"Best to kill these first."</i> <smallcaps>リーヴ, Breach Mage Elite</smallcaps>=<i>"最初にこれらを殺すのが最善だ"</i> <smallcaps>リーヴ、破孔魔術師・エリート</smallcaps>
+
+// 階層2 アタック
+Awaken=覚醒
+Unleash twice and Gravehold suffers 3 damage.\r\n<b>OR</b>\r\nPlace the most recently discarded minion card in the nemesis discard pile back into play.=暴走(2回)。<br>グレイヴホールドは3ダメージを受ける。<br><b>または</b>\r\nネメシスカードの捨て山にある一番最近捨てられたミニオンカードをプレイ(場)に戻す。
+<i>"They were always just outside the edge of our knowing, sitting there in some quiet abyss just waiting to visit ruin upon us."</i> <smallcaps>Z'hana, Breach Mage Renegade</smallcaps>=<i>"彼らはいつも私たちの知る限りでは端にあり、静かな深淵に座っていて、私たちに破滅を訪れるのを待っていた。"</i> <smallcaps>ズハナ、破孔魔術師・レネゲイド</smallcaps>
+
+Dispel=払いのける
+Unleash twice.\r\nThe player with the most prepped spells discards their most expensive prepped spell.=暴走(2回)。<br>セット中の呪文が最も多いプレイヤー1人は、セット中の呪文のうち最もコストの高い呪文1枚を捨てる。
+<i>"The words and gestures needed left him, and the breach grew dim."</i> <smallcaps>Nerva, survivor</smallcaps>=<i>"必要な言葉と身振りは彼を離れ、破孔は薄暗くなった"</i> <smallcaps>生存者 ネルヴァ</smallcaps>
+
+Lay Waste=廃棄物
+Unleash twice.\r\nプレイヤー1人 suffers 2 damage.=暴走(2回)。<br>プレイヤー1人は2ダメージを受ける。
+Gravehold sat silent and forgotten for a thousand ages before The Nameless came. No one remembers for whom this vast city was built. Those stories lay in the ash outside the cave with the bones of those who once told them.=グレイヴホールドはネームレスが来るまでの千年もの間、静かに忘れ去られていた\nこの広大な都市が誰のために作られたのか誰も覚えていない。\nその物語は洞窟の外の灰の中に、かつてそれを語った者たちの骨とともに横たわっていた。
+
+
+// 階層2 パワー
+Baneful Crux=害悪の核心
+<b>TO DISCARD:</b> Discard two cards in hand that each cost 4 <sprite name\="Aether" color\=#FFFFFF> or more.\r\n<b>POWER 2:</b> Unleash twice. Gravehold suffers 3 damage.=<b>廃棄: </b> 手札からコスト 4 <sprite name\="Aether" color\=#FFFFFF> 以上のカード2枚を捨てる。<br><b>パワー2: </b>暴走(2回)。<br>グレイヴホールドは3ダメージを受ける。
+<i>"The myriad faces of The Thrice-Dead Prophet seemed to stare at us at once, the way one does at insects clambering upon a wall."</i> <smallcaps>Mazahaedron, Henge Mystic</smallcaps>=<i>「三人目の預言者』の無数の顔が、壁面をよじ登る昆虫を見るように、一斉に私たちを凝視しているように見えた。</i> <smallcaps>マザヘドロン、ヘンゲの神秘家</smallcaps>
+
+Pulverizing Ray=粉砕光線
+<b>POWER 1:</b> Gravehold suffers 3 damage.\r\n<b>OR</b>\r\nプレイヤー1人 discards a gem in hand.\r\nRepeat this 5 additional times.=<b>パワー1: </b> グレイヴホールドは3ダメージを受ける。<br><b>または</b><br>プレイヤー1人は手札の宝石を1つ捨てる。<br><br>さらに上記の選択を5回繰り返す。
+<i>"The ground absorbed the latent energy left by the first breaches ever opened. Without this to fuel our spells, our fate would be certain."</i> <smallcaps>Malastar, Breach Mage Mentor</smallcaps>=<i>"最初の破孔が残した潜在的なエネルギーを 大地が吸収したのだ このエネルギーがなければ、我々の呪文は使えない。</i> <smallcaps>マラスター、破孔魔術師のメンター</smallcaps>
+
+Eye of Nothing=無の目
+<b>TO DISCARD:</b> Spend 6 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash twice.=<b>廃棄: </b> 6<sprite name\="Aether" color\=#FFFFFF>を消費する <br><b>パワー2: </b>暴走(2回)。
+<i>"We toy with forces we barely comprehend."</i> <smallcaps>Z'hana, Breach Mage Renegade</smallcaps>=<i>"我々はかろうじて理解できる力をもてあそんでいる"</i> <smallcaps>ザーナ、追放の破孔魔術師</smallcaps>
+
+// 階層2 ミニオン
+Portal Guardian=門の守護者
+<b>PERSISTENT:</b> Unleash. プレイヤー1人 suffers 1 damage.=<b>継続:</b>暴走。<br>プレイヤー1人は1ダメージを受ける。
+
+Cauterizer=焼灼機
+When damage is dealt to this minion, reduce that damage to 1.\r\n<b>PERSISTENT:</b> プレイヤー1人 suffers damage equal to this minion's current life.=このミニオンにダメージを与える時、そのダメージは常に1になる。<br><b>継続: </b>プレイヤー1人はこのミニオンの現在の体力に等しいダメージを受ける。
+<i>"Hack away all you like, youngling. It will only grow back another... whatever that part is."</i> <smallcaps>アーデルハイム, Breach Mage Weaponsmith</smallcaps>=<i>"好きなだけ削ればいい" "また新たに生えてくるだけだ" "その部分が何であれ"</i> <smallcaps>アーデルハイム、破孔魔術師 武器職人</smallcaps>
+
+Needlemaw=ニードレマウ
+<b>PERSISTENT:</b> Gravehold suffers 2 damage.=<b>継続: </b>グレイヴホールドは2ダメージを受ける。
+<i>"The teeth of this beast make a fine trophy. The trick is keeping all your fingers in the taking of them."</i> <smallcaps>Reeve, Breach Mage Elite</smallcaps>=<i>"この獣の歯は立派な戦利品になる。コツは、すべての指をくわえて取ることだ。"</i> <smallcaps>リーヴ、破孔・魔術師・エリート</smallcaps>
+
+Venomite=ヴェノマイト
+<b>PERSISTENT:</b> The player with the lowest life suffers 2 damage.\r\n<b>OR</b>\r\nプレイヤー1人 discards a prepped spell that costs <nobr>3 <sprite name\="Aether" color\=#FFFFFF></nobr> or more.=<b>継続:</b>体力が最も少ないプレイヤーは2ダメージを受ける。<br><b>または</b><br>プレイヤー1人はコスト<nobr>3 <sprite name\="Aether" color\=#FFFFFF></nobr> 以上のセットしている呪文１枚を捨てる。
+<i>"In The World That Was, there were many creatures that used poison as a means of survival. But these things ARE poison."</i> <smallcaps>ラッシュ, Breach Mage Scout</smallcaps>=<i>"かつての世界"では、生き残るために毒を使う生き物がたくさんいた。しかし、これらは毒である。"</i> <smallcaps>ラッシュ、破孔魔術師スカウト</smallcaps>
+
+Discard a prepped spell that costs 3 <sprite name\="Aether" color\=#FFFFFF> or more=コスト3<sprite name\="Aether" color\=#FFFFFF>以上のセットしている呪文1枚を捨てる
+
+
+// 階層3 アタック
+Gather Darkness=闇を集めて
+プレイヤー1人 places their discard pile on top of their deck, shuffles it, and then destroys the top four cards of their deck.\r\nThen, Unleash twice.=プレイヤー1人は自分の捨て山をデッキの上に置き、シャッフルした後、自分のデッキの上から4枚を破壊する。<br>その後、暴走(2回)。
+<i>"The Nameless do not die, for they themselves are death."</i> <smallcaps>ザクソス, Breach Mage Adept</smallcaps>=<i>"ネームレスは死なない" "彼ら自身が死なのだから"</i> <smallcaps>ザクソス、破孔魔術師・アデプト</smallcaps>
+
+Obliterate=抹殺
+Unleash twice.\r\nThe player with the most opened breaches destroys four cards in hand or suffers 4 damage.=暴走(2回)。<br>開放状態の破孔を最も多く持つプレイヤーは、手札を4枚破壊するか、4ダメージを受ける。
+<i>"While the breaches amplify our magic a thousandfold, it comes at the highest ransom imaginable."</i> <smallcaps>ブラマ, Breach Mage Elder</smallcaps>=<i>"破戒は魔力を千倍に増幅するが、その代償は想像を絶する高額なものである。" </i> <smallcaps>破孔魔術師エルダー・ブラマ</smallcaps>
+
+Sunder=切り離す
+Gravehold suffers 4 damage and the player with the lowest life suffers 4 damage.\r\n<b>OR</b>\r\nShuffle all of the nemesis turn order cards into the turn order deck.=グレイヴホールドは4ダメージを受け、体力が最も少ないプレイヤーは4ダメージを受ける。<br><b>または</b><br>ターン順カードの捨て札にあるすべてのネメシスのターン順カードをターン順カードの山札に戻してシャッフルする。
+<i>"We fight for the lingering hope of returning to The World That Was, but in our hearts we know our future lies within these caves."</i> <smallcaps>Z'hana, Breach Mage Renegade</smallcaps>=<i>"我々は「かつてあった世界」に戻るという僅かな希望のために戦うが、心の中では我々の未来はこの洞窟の中にあると知っている。" </i> <smallcaps>ザーナ、追放の破孔魔術師</smallcaps>
+
+Topple=転倒
+Unleash twice.\r\nGravehold suffers 4 damage.=暴走(2回)。<br>グレイヴホールドは4ダメージを受ける。
+<i>"LOOK OU--"</i> <smallcaps>Last words of Quilion Rafe, Far Hollow watchman</smallcaps>=<i>「見てくださ - 」</i> <smallcaps>クリオン・レフ ファー・ホローの見張り番の最後の言葉</smallcaps>
+
+Unmake=消滅
+Unleash twice.\r\nプレイヤー1人 destroys the top three cards of their deck and suffers 3 damage.=暴走(2回)。<br>プレイヤー1人は自分のデッキの上からカード3枚を破壊し、3ダメージを受ける。
+<i>"The Wraithmonger failed, its ephemeral tentacle passing through a guard on the South Wall. And like that, he was gone. Not only from this world, but all worlds."</i> <smallcaps>Ohat, Dirt Merchant</smallcaps>=<i>「"レイスモンガー "は失敗し、その儚い触手は南壁の警備員を通り抜けた。そして、そのように、彼はいなくなった。この世界だけでなく、すべての世界から。" </i> <smallcaps>土の商人、オハット</smallcaps>
+
+
+// 階層3 パワー
+Hex of Destruction=破壊の六角
+<b>TO DISCARD:</b> Spend 8 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash twice. Gravehold suffers 4 damage. プレイヤー1人 destroys the top four cards of their deck.=<b>廃棄: </b> 8 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b>暴走(2回)。<br>グレイヴホールドは4ダメージを受ける。<br>プレイヤー1人は自分のデッキの一番上のカードを4枚破壊する。
+
+Doom Aegis=運命のイージス
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 1:</b> The player with the most charges suffers 4 damage and loses all of their charges.=<b>廃棄: </b> 7 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー1: </b> チャージが最も多いプレイヤーは4ダメージを受け、自分のチャージをすべて失う。
+<i>"There is a saying: all wars must end."</i> <smallcaps>Nerva, survivor</smallcaps>=<i>すべての戦争は終わらせなければならない "という言葉がある</i> <smallcaps>ネルヴァ(生存者)</smallcaps>
+
+Reality Rupture=現実の破裂
+<b>TO DISCARD:</b> Destroy two prepped spells that each cost <nobr>3 <sprite name\="Aether" color\=#FFFFFF></nobr> or more.\r\n<b>POWER 1:</b> Unleash three times.=<b>廃棄: </b> コスト3 <sprite name\="Aether" color\=#FFFFFF>以上のセット中の呪文を2枚破壊する。<br><b>パワー1: </b>  暴走(3回)。
+<i>"The world shattered in a blink, and in the ruin I glimpsed the other side of the void."</i> <smallcaps>フェドラクサ, Breach Mage Seer</smallcaps>=<i>"世界は瞬く間に砕け散り、その廃墟に私は虚空の向こう側を垣間見た。" </i> <smallcaps>フェドラクサ、破孔魔術師・シーア</smallcaps>
+
+// 階層3 ミニオン
+Jagged One=ジャグジー・ワン
+Jagged Ones are the heralds of The Nameless, leading legions in siege after siege of Gravehold.=ギザギザはネームレスの先駆者であり、軍団を率いてグレイヴホールドの包囲に次ぐ包囲を行った。
+
+// wave4
+
+// upgrade basic
+// 階層1
+Bane Commander=ベイン司令官
+
+Hissing Acid=シューという酸
+<b>TO DISCARD:</b> Spend 6 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> Reveal the top card of the turn order deck. If it's a player turn order card, Unleash three times. Otherwise, プレイヤー1人 suffers 5 damage.=<b>廃棄: </b> 6<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3: </b> ターン順デッキの一番上のカードを公開する。<br>それがプレイヤーのターン順カードである場合、暴走3回。<br>そうでない場合、プレイヤー1人は5ダメージを受ける。
+
+Wreck=遭難
+Unleash twice.\r\nGravehold suffers 1 damage.=暴走2回。<br>グレイヴホールドは1ダメージを受ける。
+
+// 階層2
+Engulfing Madness=巻き込まれる狂気
+<b>TO DISCARD:</b> Spend 8 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 1:</b> Unleash twice. プレイヤー1人 suffers 4 damage.=<b>廃棄: </b> 8 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー1: </b> 暴走2回。<br>プレイヤー1人は4ダメージを受ける。
+
+Marked=狙いをつける
+Unleash twice.\r\nThe player with the lowest life suffers 3 damage.=暴走(2回)。<br>体力が最も少ないプレイヤーは3ダメージを受ける。
+
+Needle Doom=ニードルドゥーム
+<b>PERSISTENT:</b> Unleash. Gravehold suffers 2 damage.=<b>継続:</b>暴走。<br>グレイヴホールドは2ダメージを受ける。
+
+Separate=引き裂く
+Unleash twice.\r\nGravehold suffers 2 damage.\r\nThe player with the most expensive prepped spell discards that spell.=暴走(2回)。<br>グレイヴホールドは2ダメージを受ける。<br>最も高価な呪文をセット中のプレーヤーは、その呪文を捨てる。
+
+Sky Tremor=空の震動
+
+// 階層3
+Burialskulk=バリアルスカーク
+
+Eradicate=撲滅
+Unleash twice.\r\nプレイヤー1人 discards their three most expensive cards in hand.=暴走(2回)。<br>プレイヤー1人は手札の中で最も高価なカードを3枚捨てる。
+
+Flash of Decay=崩壊のフラッシュ
+<b>POWER 2:</b> Unleash twice.\r\nThe player with the most expensive prepped spell destroys it. If that spell costs <nobr>4 <sprite name\="Aether" color\=#FFFFFF></nobr> or less, or no spell was destroyed, Unleash.=<b>パワー2：</b> 暴走(2回)。<br>最もコストの高いセットしている呪文を持つプレイヤーはその呪文を破壊する。<br>その呪文のコストが4 <sprite name\="Aether" color\=#FFFFFF>以下か、呪文が破壊されていない場合、暴走。
+
+Ray of Desolation=荒廃の光線
+<b>POWER 1:</b> Unleash twice.\r\nThe players collectively destroy the two most expensive prepped spells.=<b>パワー1:</b> 暴走(2回)。<br>全プレイヤーを通じてセット中の呪文のうち最も高価な2つを破壊する。
+
+Sacrifice=生贄
+Unleash four times.\r\n<b>OR</b>\r\nGravehold suffers 4 damage and プレイヤー1人 suffers 4 damage.=暴走(4回)。<br><b>または</b><br>グレイヴホールドは4ダメージを受け、プレイヤー1人は4ダメージを受ける。
+
+Terrify=脅す
+Unleash three times.\r\nGravehold suffers 2 damage.\r\nプレイヤー1人 destroys two cards in hand.=暴走(3回)。<br>グレイヴホールドは2ダメージを受ける。<br>プレイヤー1人は手札を2枚破棄する。
+
+Thunderous Tempest=雷雨
+<b>TO DISCARD:</b> Spend 9 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash. If there are two nemesis turn order cards in the turn order discard pile, プレイヤー1人 suffers 8 damage. Otherwise, プレイヤー1人 suffers 5 damage.=<b>廃棄: </b> 9 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b> 暴走。<br>ターン順カードの捨山にネメシスターン順カードが2枚ある場合、プレイヤー1人は8ダメージを受ける。<br>そうでない場合、プレイヤー1人は5ダメージを受ける。
+
+
+// ネメシス専用
+// フェンリックス
+Fenrix gains one nemesis token.=フェンリックスはネメシス トークンを1つ獲得する。
+
+<b><allcaps><size\=105%>setup:</size></allcaps></b> Place a claw into play.=<b><allcaps><size\=105%>設定：</size></allcaps></b> 爪をプレイに出す。
+At the end of the nemesis turn, if Fenrix has four or more nemesis tokens, a claw is placed into play and Fenrix loses two nemesis tokens. Repeat this until Fenrix has less than four nemesis tokens.\r\nWhen a claw is discarded from play, it is placed facedown on top of the claw deck and all Position tokens on that claw are returned to the corresponding players.\r\nDuring プレイヤー1人’s main phase, that player may place their Position token on a claw, even if it’s already placed on a claw.\r\nPrevent all damage dealt to claws by players without a Position token on that claw.\r\nWhen the claw deck is empty, the players lose.=ネメシスターン終了時に、フェンリックスのネメシストークンが4つ以上ある場合、爪が1つ置かれ、フェンリックスはネメシストークンを2つ失います。フェンリックスのネメシストークンが4個以下になるまでこれを繰り返します。\n爪がプレイから捨てられると、爪デッキの上に裏向きで置かれ、その爪のポジショントークンはすべて対応するプレイヤーに戻されます。\n任意のプレイヤーのメインフェイズに、そのプレイヤーは自分のポジショントークンを爪の上に置くことができます(すでに爪の上に置かれている場合も同様)。\nその爪の上にポジショントークンがないプレイヤーが爪に与えるすべてのダメージを防ぐ。\n爪デッキが空になったら、プレイヤーたちは負けになります。
+
+
+
+
+Rending Claw=引き裂く爪
+Prevent all damage dealt to this minion by players without a Position token on this minion.\r\n<b>IMMEDIATELY:</b> プレイヤー1人 may place a Position token on this minion.\r\n<b>PERSISTENT:</b> プレイヤー1人 with a Position token on this claw suffers 2 damage or Gravehold suffers 2 damage.=このミニオンの上にポジショントークンがないプレイヤーはこのミニオンにダメージを与えられない。<br><b>即時: </b> プレイヤー1人はこのミニオンの上にポジショントークンを置いてもよい。<br><b>継続:</b>この爪の上にポジショントークンがあるプレイヤー1人は2ダメージを受ける、または、グレイヴホールドは2ダメージを受ける。
+
+Hunting Claw=狩りの爪
+Prevent all damage dealt to this by players without a Position token on this. When this is discarded, place it in Fenrix's discard pile.\r\n<b>IMMEDIATELY:</b> プレイヤー1人 may place a Position token on this minion.\r\n<b>PERSISTENT:</b> プレイヤー1人 with a Position token on this claw suffers 2 damage or Gravehold suffers 2 damage.=このミニオンの上にポジショントークンがないプレイヤーはこのミニオンにダメージを与えられない。このカードが捨てられた時、フェンリックスの捨て山に置く。<br><b>即時: </b> プレイヤー1人はこのミニオンの上にポジショントークンを置いてもよい。<br><b>継続:</b>この爪の上にポジショントークンがあるプレイヤー1人は2ダメージを受ける、または、グレイヴホールドは2ダメージを受ける。
+
+Culling Scythe=淘汰の大鎌
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash. The player with the lowest life suffers 4 damage.=<b>廃棄: </b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2</b> 暴走。<br>体力が最も少ないプレイヤーは4ダメージを受ける。
+
+Spring of Fury=怒りのバネ
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> Unleash twice.\r\nFor the rest of the game, when a claw is placed into play, place it into play with 1 additional life.=<b>廃棄: </b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3</b> 暴走2回。<br>残りのゲーム中、爪がプレイに置かれたとき、体力を1追加してプレイに置く。

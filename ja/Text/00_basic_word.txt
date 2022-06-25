@@ -1,0 +1,14 @@
+﻿Upgraded-Basic=基本アップグレード
+Basic=基本
+Power=パワー
+Attack=アタック
+Minion=ミニオン
+Strike=ストライク
+Unleash=暴走
+Increased Difficulty=高難度ルール
+Additional Rules=追加ルール
+
+Opened Breach=開放状態の破孔
+Closed Breach=閉鎖状態の破孔
+
+Finish Casting=呪文フェイズ終了

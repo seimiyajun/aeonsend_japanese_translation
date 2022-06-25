@@ -1,0 +1,196 @@
+﻿// ネメシス専用
+// フェンリックス
+Claw=爪
+Claw Deck=爪デッキ
+Return a Position token=ポジショントークンを戻す
+The claw deck is empty.=爪の山札が空になった。
+r:"^(?<name_i>.+) places their Position token"=${name_i}はポジショントークンを置く
+
+The Void-powered wolf pack surges through Gravehold, devouring everyone and everything in their path...=虚無の力を持つ狼の群れがグレイヴホールドに押し寄せ、行く手を阻む全てのものを食い尽くした...。
+
+フェンリックス gains one nemesis token.=フェンリックスはネメシス トークンを1つ獲得する。
+
+<b><allcaps><size\=105%>setup:</size></allcaps></b> Place a claw into play.=<b><allcaps><size\=105%>設定：</size></allcaps></b> 爪をプレイに出す。
+At the end of the nemesis turn, if フェンリックス has four or more nemesis tokens, a claw is placed into play and フェンリックス loses two nemesis tokens. Repeat this until フェンリックス has less than four nemesis tokens.\r\nWhen a claw is discarded from play, it is placed facedown on top of the claw deck and all Position tokens on that claw are returned to the corresponding players.\r\nDuring プレイヤー1人’s main phase, that player may place their Position token on a claw, even if it’s already placed on a claw.\r\nPrevent all damage dealt to claws by players without a Position token on that claw.\r\nWhen the claw deck is empty, the players lose.=ネメシスターン終了時に、フェンリックスのネメシストークンが4つ以上ある場合、爪が1つ置かれ、フェンリックスはネメシストークンを2つ失う。フェンリックスのネメシストークンが4個以下になるまでこれを繰り返す。<br>爪がプレイから捨てられると、爪デッキの上に裏向きで置かれ、その爪に置かれていたポジショントークンはすべて対応するプレイヤーに戻される。<br>プレイヤーのメインフェイズ中、手番プレイヤーは自分のポジショントークンを爪の上に置くことができる(すでに爪の上に置かれている場合は移動させることができる)。<br>その爪の上にポジショントークンがないプレイヤーが爪に与えるすべてのダメージを無効化される。<br>爪デッキが空になったら、プレイヤーたちは敗北する。
+
+Each player gains a Position token.\r\nThe claw cards are placed facedown to form the claw deck.\r\nIf you are playing with 1/2/3 players, the nemesis gains 2/2/1 nemesis tokens.=各プレイヤーはポジショントークンを1つ持つ。<br>爪カードは裏向きで置かれ、爪の山札となる。<br>1/2/3プレイヤーでプレイしている場合、ネメシスは2/2/1のネメシストークンを獲得する。
+
+Rending Claw=引き裂く爪
+Prevent all damage dealt to this minion by players without a Position token on this minion.\r\n<b>IMMEDIATELY:</b> プレイヤー1人 may place a Position token on this minion.\r\n<b>PERSISTENT:</b> プレイヤー1人 with a Position token on this claw suffers 2 damage or Gravehold suffers 2 damage.=このミニオンの上にポジショントークンがないプレイヤーはこのミニオンにダメージを与えられない。<br><b>即時: </b> プレイヤー1人はこのミニオンの上にポジショントークンを置いてもよい。<br><b>継続:</b>この爪の上にポジショントークンがあるプレイヤー1人は2ダメージを受ける、または、グレイヴホールドは2ダメージを受ける。
+
+Crazed Whelps=狂った子守唄
+<b>POWER 3:</b> Place two claws into play. Set the life of those minions to 2. Do not resolve these minion's <b>PERSISTENT</b> effects this turn.=<b>パワー3: </b> 爪を2体場に出す。それらのミニオンの体力を2にする。このターン中、これらのミニオンの<b>継続</b> の効果を解決しない。
+
+
+Hunting Claw=狩りの爪
+Prevent all damage dealt to this by players without a Position token on this. When this is discarded, place it in フェンリックス's discard pile.\r\n<b>IMMEDIATELY:</b> プレイヤー1人 may place a Position token on this minion.\r\n<b>PERSISTENT:</b> プレイヤー1人 with a Position token on this claw suffers 2 damage or Gravehold suffers 2 damage.=このミニオンの上にポジショントークンがないプレイヤーはこのミニオンにダメージを与えられない。このカードが捨てられた時、フェンリックスの捨て山に置く。<br><b>即時: </b> プレイヤー1人はこのミニオンの上にポジショントークンを置いてもよい。<br><b>継続:</b>この爪の上にポジショントークンがあるプレイヤー1人は2ダメージを受ける、または、グレイヴホールドは2ダメージを受ける。
+
+Culling Scythe=淘汰の大鎌
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash. The player with the lowest life suffers 4 damage.=<b>廃棄: </b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2</b> 暴走。<br>体力が最も少ないプレイヤーは4ダメージを受ける。
+
+Spring of Fury=怒りのバネ
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> Unleash twice.\r\nFor the rest of the game, when a claw is placed into play, place it into play with 1 additional life.=<b>廃棄: </b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3</b> 暴走2回。<br>残りのゲーム中、爪がプレイに置かれたとき、体力を1追加してプレイに置く。
+
+Rally the Pack=仲間を結集する
+<b>POWER 2:</b> If there are no claws in play, Unleash twice. Otherwise, Unleash, プレイヤー1人 suffers 3 damage, and places their Position token on a claw.=<b>パワー2:</b> プレイ中の爪がない場合、暴走(2回)。<br>そうでない場合、暴走。<br>その後プレイヤー1人は3ダメージを受け、自分のポジショントークンを爪の上に置く。
+
+Dodge=からくり
+Unleash. Return プレイヤー1人's Position token on a minion to that player.\r\n<b>OR</b>\r\nUnleash. プレイヤー1人 suffers 2 damage and discards a card in hand.=暴走。<br>ミニオンに乗っている任意のプレイヤー1人のポジショントークンをそのプレイヤーに戻す。<br><b>または</b><br>暴走。<br>プレイヤー1人は2ダメージを受け、手札を1枚捨てる。
+
+Obscure=あいまいな
+Players cannot place Position tokens on claws this turn.\r\nUnleash twice.\r\nThe player with the most expensive prepped spell places that spell on top of their deck.=プレイヤーは、このターン中、爪にポジショントークンを置くことができない。<br>暴走(2回)。<br>最もコストの高い呪文をセットしているプレイヤー1人は、その呪文を自分の山札の一番上に置く。
+
+Aether Blizzard=エーテル猛吹雪
+<b>TO DISCARD:</b> Destroy three cards in hand that cost 3 <sprite name\="Aether" color\=#FFFFFF> or more.\r\n<b>POWER 2:</b> Unleash three times.\r\nReturn one player's Position token on a minion to that player. Players cannot place Position tokens on claws this turn.=<b>廃棄: </b> 手札のコスト3<sprite name\="Aether" color\=#FFFFFF>以上のカードを3枚破壊する。<br><b>パワー2:</b> 暴走(3回)。<br>ミニオンに乗っているプレイヤーのポジショントークン1つをそのプレイヤーに戻す。<br>このターン中、プレイヤーは爪の上にポジショントークンを置けない。
+
+Lacerate=裂傷
+If there are two or less claws in play, Unleash three times.\r\nOtherwise, resolve the persistent effect of each claw in play.=場に出ている爪が2つ以下である場合、暴走(3回)。<br>そうでない場合、場に出ている全ての爪の継続効果を解決する。
+
+Molten Alpha=溶融アルファ
+<b>IMMEDIATELY:</b> Place each player's Position token on this minion.\r\n<b>PERSISTENT:</b> Gravehold suffers 4 damage.=<b>即時: </b> 各プレイヤーのポジショントークンをこのミニオンの上に置く。<br><b>継続: </b>グレイヴホールドは4ダメージを受ける。
+
+// Ageless Walker
+Curse=呪い
+
+//マット
+プレイヤー1人 exiles a card in hand or the top card of their discard pile.=プレイヤー1人は、手札または捨山の一番上のカードを1枚追放する。
+
+<b><allcaps><size\=105%>rules:</size></allcaps></b> When a player resolves Curse of Aging they do not draw a card.=<b><allcaps><size\=105%>ルール：</size></allcaps></b> プレイヤーは「老いの呪い」を解決するとき、カードを引かない。
+When a card is exiled, it is placed faceup on top of the exiled pile, even if the exiled pile is empty.\r\nCards may be gained from the top of the exiled pile, as if it were a supply pile, by paying their cost plus 1 <sprite name\="Aether" color\=#FFFFFF>.\r\nThe players may look through the exiled pile at any time.=カードが追放された場合、そのカードは追放された山の上に表向きで置かれる。追放された山が空であっても同様にする。<br>プレイヤーは追放された山の一番上に置かれたカードを、そのコストに1<sprite name\="Aether" color\=#FFFFFF>を足した金額を支払って獲得してもよい。<br>プレイヤーたちはいつでも追放された山の中を見ることができる。
+
+Each player places a Curse of Aging card in their discard pile.\r\nThe top card of the most expensive supply pile is placed faceup in a pile. This pile is the exiled pile.=各プレイヤーは自分の捨山に「老いの呪い」カード1枚を置く。<br>最も高いコストのサプライの山の一番上のカードを1枚、表向きにしてネメシスマットの横に山にして置く。この山を追放された山と呼ぶ。
+
+//カード
+Age Siphon=年齢サイフォン
+プレイヤー1人 exiles a spell in their hand or discard pile.\r\nGravehold suffers 2 damage.=プレイヤー1人は自分の手札か捨山にある呪文1つを追放する。 グレイヴホールドは2ダメージを受ける。
+
+Enveloping Ooze=包み込むウーズ
+<b>PERSISTENT:</b> Gravehold suffers 2 damage. プレイヤー1人 discards the top card of their deck.=<b>継続:</b>グレイヴホールドは2ダメージを受ける。<br>プレイヤー1人は自分のデッキの一番上のカードを捨てる。
+
+Temporal Leap=一時的な跳躍
+<b>POWER 3:</b> The players collectively exile two cards in hand.=<b>パワー3: </b> 全プレイヤーを通じて手札を合計して2枚追放する。
+
+Burden of Knowledge=知識の負担
+<b>POWER 3:</b> The players collectively exile two cards in hand or discard pile that costs 2 <sprite name\="Aether" color\=#FFFFFF> or more.=<b>パワー3: </b>全プレイヤーを通じて手札または捨山にある2<sprite name\="Aether" color\=#FFFFFF>コスト以上のカードを合計して2枚追放する。  
+
+Rush of Madness=狂気のラッシュ
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> Unleash twice. Exile a card from the most expensive supply pile. Gravehold suffers 4 damage.=<b>廃棄: </b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3</b> 暴走(2回)。<br>最も高価なサプライからカードを1枚追放する。<br>グレイヴホールドは4ダメージを受ける。
+
+Timeless Serpent=時代を超越した蛇
+<b>IMMEDIATELY:</b> プレイヤー1人 exiles one card in hand.\r\n<b>PERSISTENT:</b> プレイヤー1人 discards their most expensive card in hand.=<b>即時: </b> プレイヤー1人は手札を1枚追放する。<br><b>継続: </b>プレイヤー1人は手札の中で最もコストの高いカードを捨てる。
+
+Forget=忘れる
+プレイヤー1人 exiles two cards in hand and draws two cards.\r\nGravehold suffers 5 damage.=プレイヤー1人は手札を2枚追放して、カードを2枚引く。<br>グレイヴホールド5ダメージを受ける。
+
+Siege of Dust=砂塵の包囲
+<b>POWER 1:</b> Unleash. If the top card of the exiled pile costs more than 0 <sprite name\="Aether" color\=#FFFFFF>, Gravehold suffers 4 damage. Otherwise, Gravehold suffers 8 damage.=<b>パワー1: </b> 暴走。<br>追放された山の一番上のカードのコストが0<sprite name\="Aether" color\=#FFFFFF>より大きい場合、グレイヴホールドは4ダメージを受ける。<br>そうでない場合グレイヴホールドは8ダメージを受ける。
+
+Spire of Bone=骨の尖塔
+<b>IMMEDIATELY:</b> Destroy all the cards in the Exiled pile.\r\n<b>PERSISTENT:</b> プレイヤー1人 exiles a card in hand and draws a card.\r\nGravehold suffers 2 damage.=<b>即時: </b> 追放された山にある全てのカードを破壊する。<br><b>継続: </b>プレイヤー1人は手札を1枚捨て、カードを1枚引く。<br>グレイヴホールドは2ダメージを受ける。
+
+Curse of Aging=老いの呪い
+This cannot be destroyed or exiled.\r\nWhen this is in your hand, immediately suffer 1 damage and draw a card. Then, discard this card.=このカードを破壊したり追放することはできない。<br>このカードが手札にあるとき、直ちに1ダメージを受け、カードを1枚引く。<br>その後、このカードを捨てる。
+
+// Arachnos
+ミニオン - Nemesis=ミニオン - ネメシス
+World Devourer=世界の貪食者
+アラクノス gains one nemesis token=アラクノスはネメシス トークンを1つ獲得する。
+アラクノス gains two nemesis tokens=アラクノスはネメシス トークンを2つ獲得する。
+Unleash. プレイヤー1人 suffers 3 damage=暴走。<br>プレイヤー1人は3ダメージを受ける。
+
+The アラクノス token moves one space forward on the Ritual Track.=アラクノストークンが儀式トラックを前へ1つ進む。
+<b><allcaps><size\=105%>setup:</size></allcaps></b> アラクノス gains two nemesis tokens and Unleash twice.=<b><allcaps><size\=105%>戦闘準備: </size></allcaps></b> アラクノスはネメシストークンを2個獲得し、暴走(2回)。
+Players may spend <sprite name\="Aether" color\=#FFFFFF> equal to the number shown on the Ritual Track for the current position of the アラクノス token to move it back one space on the Track.\r\nWhen the アラクノス token reaches the end of the Ritual Track or アラクノス has more than eight nemesis tokens, the ritual is complete.\r\nWhen the players would win the game and World Devourer has not entered play yet, アラクノス loses a nemesis token and the ritual is complete.\r\nWhen the ritual is complete, the nemesis deck, all minions, and powers are removed from the game. Any nemesis cards that were being resolved when the ritual was completed do not finish resolving. The Nemesis draw phase is skipped for the rest of the game. The World Devourer card with the tier number equal to the number of nemesis tokens is placed into play.\r\nWhile World Devourer is in play, アラクノス cannot be dealt damage, and the players win when World Devourer is discarded.\r\nWhen a player is exhausted while World Devourer is in play, World Devourer gains 10 life instead of Unleash twice.=プレイヤーは、儀式トラックに表示されている数字と同じだけ<sprite name\="Aether" color\=#FFFFFF>を消費して、アラクノストークンを現在の位置より1スペース分後ろに移動させることができる。<br>アラクノストークンが儀式トラックの最後に到達するか、アラクノスのネメシストークンが8個以上になると、儀式は完了する。<br>儀式が完了すると、ネメシスデッキ、すべてのミニオン、パワーはゲームから取り除かれる。<br>儀式が完了したときに解決中だったネメシスカードは、最後まで解決せずに途中終了する。<br>ネメシスのドローフェイズは、その後のゲームの間、スキップされる。<br>ネメシストークンの数に等しいレベルを持つ世界の貪食者が場に出される。<br>世界の貪食者が場に出ている間、アラクノスにはダメージを与えられず、また世界の貪食者を捨て札にした時プレイヤーは勝利する。<br>世界の貪食者が場に出ている間にプレイヤーが疲弊したとき、世界の貪食者は暴走を2回行う代わりに体力10を得る。
+The アラクノス token starts on the first space of the Ritual Track.\r\nThe World Devourer starts out of play at tier 0.=アラクノストークンは儀式トラックの最初のスペースから始まる。<br>世界の貪食者はレベル0から始まる。
+At the start of each nemesis turn: Gravehold suffers 3 damage. プレイヤー1人 suffers 3 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 5.=各ネメシスターンの開始時に グレイヴホールドは3ダメージを受ける。プレイヤー1人は3ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に5を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 3 damage. プレイヤー1人 suffers 3 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 10.=各ネメシスターンの開始時に グレイヴホールドは3ダメージを受ける。プレイヤー1人は3ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に10を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 4 damage. プレイヤー1人 suffers 3 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 10.=各ネメシスターンの開始時に グレイヴホールドは4ダメージを受ける。プレイヤー1人は3ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に10を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 4 damage. プレイヤー1人 suffers 4 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 15.=各ネメシスターンの開始時に グレイヴホールドは4ダメージを受ける。プレイヤー1人は4ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に15を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 4 damage. プレイヤー1人 suffers 4 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 20.=各ネメシスターンの開始時に グレイヴホールドは4ダメージを受ける。プレイヤー1人は4ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に20を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 5 damage. プレイヤー1人 suffers 4 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 20.=各ネメシスターンの開始時に グレイヴホールドは5ダメージを受ける。プレイヤー1人は4ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に20を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 5 damage. The player with the lowest life suffers 4 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 25.=各ネメシスターンの開始時に グレイヴホールドは5ダメージを受ける。最も体力の低いプレイヤー1人は4ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に25を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 5 damage. The player with the lowest life suffers 4 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 30.=各ネメシスターンの開始時に グレイヴホールドは5ダメージを受ける。最も体力の低いプレイヤー1人は4ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に30を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 5 damage. The player with the lowest life suffers 4 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 35.=各ネメシスターンの開始時に グレイヴホールドは5ダメージを受ける。最も体力の低いプレイヤー1人は4ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に35を足したものに設定する。
+At the start of each nemesis turn: Gravehold suffers 5 damage. The player with the lowest life suffers 4 damage.\r\n<b>IMMEDIATELY:</b> Set this minion's life equal to the current life of アラクノス plus 40.=各ネメシスターンの開始時に グレイヴホールドは5ダメージを受ける。最も体力の低いプレイヤー1人は4ダメージを受ける。<br><b>即時: </b>このミニオンの体力を、アラクノスの現在の体力に40を足したものに設定する。
+Bolster=ボルスター
+アラクノス gains 1 nemesis token.\r\n<b>OR</b>\r\nUnleash. プレイヤー1人 suffers 3 damage.=アラクノスはネメシストークンを1つ得る。<br><b>または</b><br>暴走。プレイヤー1人は3ダメージを受ける。
+Breach Stabilizer=破孔スタビライザー
+<b>TO DISCARD:</b> Spend 5 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash. アラクノス gains one nemesis token.=<b>廃棄: </b> 5<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b> 暴走。<br>アラクノスはネメシストークンを1つ得る。
+The Chanters=ザ・チャンターズ
+<b>PERSISTENT:</b> アラクノス gains one nemesis token.=<b>継続: </b>アラクノスはネメシストークンを1つ得る。
+Empower Ritual=エンパワーリチュアル
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> アラクノス gains one nemesis token. Gravehold suffers 4 damage.=<b>廃棄: </b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3: </b> アラクノスはネメシストークンを1つ得る。<br>グレイヴホールドは4ダメージを受ける。
+Flame Acolyte=フレイムアコライト
+<b>PERSISTENT:</b> If アラクノス has three or less nemesis tokens, アラクノス gains one nemesis token. Otherwise, プレイヤー1人 suffers 3 damage.=<b>継続: </b>アラクノスのネメシストークンが3つ以下である場合、アラクノスはネメシストークンを1つ得る。<br>そうでない場合、プレイヤー1人は3ダメージを受ける。
+Unveil=発現
+Gravehold suffers 5 damage.\r\n<b>OR</b>\r\nアラクノス gains two nemesis tokens.=グレイヴホールドは5ダメージを受ける。<br><b>または</b><br>アラクノスはネメシストークンを2つ得る。
+Ritual Guardian=リチュアルガーディアン
+<b>PERSISTENT:</b> アラクノス gains one nemesis token. Unleash.=<b>継続:</b>アラクノスはネメシストークンを1つ得る。<br>暴走。
+
+Terminate=終了
+If アラクノス has 4 or less nemesis tokens, アラクノス gains three nemesis tokens. Otherwise, Unleash three times.=アラクノスのネメシストークンが4つ以下の場合、アラクノスはネメシストークンを3つ得る。<br>そうでない場合は、暴走(3回)。
+
+The End=終焉
+<b>IMMEDIATELY:</b> アラクノス gains 15 life.\r\n<b>POWER 4:</b> The Ritual is complete.=<b>即時: </b> アラクノスは体力15を得る。<br><b>パワー4: </b>儀式が完了する。
+
+The World Devourer has been discarded.=世界の貪食者は廃棄されました。
+The World Devourer has been stopped. The mages can rest easy... for now...=世界の貪食者は止められた。<br>魔術師たちは安らかに眠れるだろう...今は...。
+
+// Blight Load
+Tainted Track=汚染トラック
+The players lose.=プレイヤーたちはゲームに敗北する。
+荒廃の支配者 gains 10 life.=荒廃の支配者は体力10を得る。
+
+At 3: Gravehold suffers 7 damage.=3になったら: グレイヴホールドは7ダメージを受ける。
+At 5: The player with the lowest life suffers 4 damage.=5になったら: 最も体力の少ないプレイヤーは4ダメージを受ける。
+At 7: 荒廃の支配者 gains 10 life.=7になったら: 荒廃の支配者は体力10を得る。®
+At 9: The players lose.=9になったら: プレイヤーたちはゲームに敗北する。
+
+<b><allcaps><size\=105%>setup:</size></allcaps></b> Two Tainted Jades are removed from the starting supply pile.=<b><allcaps><size\=105%>戦闘準備: </size></allcaps></b> 開始時のサプライの山から汚れた翡翠2枚を取り除く。
+
+A number of Tainted Jades equal to the number of players plus four are placed in an additional supply pile.\r\nThe 荒廃の支配者 token starts on the first space of the Tainted Track.=追加のサプライの山札として、プレイヤー人数+4枚の汚れた翡翠の山札を追加する。<br>汚染トラックをこのマットの横に置き、その最初のマスに荒廃の支配者トークンを配置する。
+
+
+When a Tainted Jade is destroyed, it is returned to the Tainted Jade supply pile.\r\nWhen a player would gain a Tainted Jade and that supply pile is empty, that player suffers 1 damage instead.\r\nAt the start of each nemesis turn before resolving any other effects, count the number of Tainted Jades in the Tainted Jade supply pile. If there is only one, Tainted Track advances once. If there are zero, the Tainted Track advances twice.\r\nWhen the Tainted Track is advanced to a space with an effect listed on it, that effect resolves immediately.=汚れた翡翠が破壊された時、そのカードは汚れた翡翠の山札に戻す。<br>プレイヤーが汚れた翡翠を獲得するときに汚れた翡翠の山札にカードが存在しない場合、その代わりにそのプレイヤーは1ダメージを受ける。<br>ネメシスターンの開始時、各種効果を解決する前に、汚れた翡翠の山札の枚数を数える。<br>1枚の場合、汚染トラックを1つ進める。<br>0枚の場合、汚染トラックを2つ進める。<br>汚染トラックが効果の記載されたマスに進んだ場合、即時その効果を解決する。
+
+
+Spend 2 <sprite name\="Aether" color\=#FFFFFF> to destroy this=2 <sprite name\="Aether" color\=#FFFFFF>消費してこれを破壊する
+Gain 2 <sprite name\="Aether" color\=#FFFFFF>. Suffer 1 damage=2 <sprite name\="Aether" color\=#FFFFFF>得る。<br>1ダメージを受ける
+r:"^(.+) gains a Tainted Jade"=$1が汚れた翡翠を獲得する
+
+The 荒廃の支配者 token advanced to the final space of the Tainted Track.=荒廃の支配者トークンが汚染トラックの最終スペースに進んだ。
+The city of Gravehold has been turned to a mountain of green glass, its citizens frozen forever...=グレイヴホールドの街は緑色のガラスの山と化し、市民は永遠に凍りついた...。
+
+
+Creeping Viridian=しのび寄る深緑
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> プレイヤー1人 gains a Tainted Jade and places it in their hand. Advance the Tainted Track.=<b>廃棄: </b> 7<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3:</b> プレイヤー1人は汚れた翡翠を得て自分の手札に加える。<br>汚染トラックを前進させる。
+<i>"Just outside the city walls there are men and women, frozen in green horror, like monuments to the 荒廃の支配者's coming."</i> <smallcaps>Z'hana, Breach Mage Renegade</smallcaps>=<i>「城壁のすぐ外には、緑色の恐怖に凍りついた男女が、荒廃の支配者の到来を示す記念碑のように並んでいる。」</i> <smallcaps>ザーナ、追放の破孔魔術師</smallcaps>
+Shard Spitter=破片吐獣
+<b>PERSISTENT:</b> Gravehold suffers 2 damage. プレイヤー1人 gains a Tainted Jade and places it on top of their deck.=<b>継続:</b>グレイヴホールドは2ダメージを受ける。<br>プレイヤー1人は汚れた翡翠を得て、自分の山札の上に置く。
+<i>"Renny Mumbast lost both eyes to these wretched things. So now, when the warning bells sound the 荒廃の支配者's call, we wear goggles."</i> <smallcaps>Mist, Breach Mage Dagger Captain</smallcaps>=<i>「レニー・マムバストはこの惨劇で両目を失った。だから今、荒廃の支配者の警告の鐘が鳴るとき、ゴーグルをつけるんだ。」</i> <smallcaps>ミスト、破孔魔術師ダガーキャプテン</smallcaps>
+Vitrify=ガラス化
+The elders of Gravehold thought it wise to pave the streets of the dirt market in tumbled breach glass.=グレイヴホールドの長老たちは、土の市場の通りを転がった割れたガラスで舗装するのが賢明だと考えたのです。
+The players collectively gain two Tainted Jades and place them into their hands.=プレイヤーたちは汚れた翡翠を合計で2枚得て、自分の手札に加える。
+Dread Plinth=恐怖の台座
+<b>TO DISCARD:</b> Spend 8 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Advance the Tainted Track twice.=<b>廃棄: </b> 8 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b> 汚染トラックを2回前進させる。
+<i>"If it just touches your arm, count yourself lucky. Just chop the limb off before it's too late."</i> <smallcaps>Reeve, Breach Mage Elite</smallcaps>=<i>「もし腕に触れただけなら、幸運と思え。手遅れになる前に、手足を切り落とせばいい。」</i> <smallcaps>リーヴ、破孔・魔術師・エリート</smallcaps>
+Ossify=骨化
+The players collectively gain three Tainted Jades and place them on top of their decks.=プレイヤーたちは汚れた翡翠を合計で3枚得て、自分の山札の上に置く。
+The 荒廃の支配者's touch is enough to crystalize anything, living or otherwise.=荒廃の支配者は、生きているものであれ何であれ、あらゆるものを触れるだけで結晶化させる。
+Verdigra=青緑獣
+<b>PERSISTENT:</b> プレイヤー1人 suffers 3 damage. If this minion has 8 or less life, advance the Tainted Track.=<b>継続:</b>プレイヤー1人は3ダメージを受ける。<br>このミニオンの体力が8以下の場合、汚染トラックを前進させる。
+<i>"It's great that they shatter so easily, but not so much when they explode."</i> <smallcaps>Lash, Breach Mage Scout</smallcaps>=<i>「簡単に粉々になるのはいいのですが、爆発するとそうでもないのです。」</i> <smallcaps>ラッシュ、破孔魔術師スカウト</smallcaps>
+Glittering Doom=輝く運命
+<b>TO DISCARD:</b> Spend 8 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> プレイヤー1人 discards three cards in hand and then gains three Tainted Jades and places them into their hand.=<b>廃棄: </b> 8 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b> プレイヤー1人は手札を3枚捨て、汚れた翡翠3枚を自分の手札に加える。
+<i>"マラスター is convinced The Nameless seek to change us and then harvest us for some foul purpose."</i> <smallcaps>Brama, Breach Mage Elder</smallcaps>=<i>「マラスターは、ネームレスが我々を変え、不正な目的のために我々を収穫しようとすると確信している。」</i> <smallcaps>ブラマ、破孔魔術師 長老</smallcaps>
+Petrify=石化
+Advance the Tainted Track twice.\r\n<b>OR</b>\r\nGravehold suffers 8 damage.=汚染トラックを2回前進させる。<br><b>または</b><br>グレイヴホールドは8ダメージを受ける。
+<i>"The elders say all worlds are born of dust. Perhaps it is fitting that we return to such."</i> <smallcaps>Xaxos, Breach Mage Adept</smallcaps>=<i>「長老たちは、すべての世界は塵から生まれると言います。おそらく、私たちはそのようなものに戻ることが適切である。」</i> <smallcaps>ザクソス、破孔魔術師・アデプト</smallcaps>
+Slag Horror=鉱滓の戦慄
+<b>PERSISTENT:</b> プレイヤー1人 gains two Tainted Jades. Advance the Tainted Track.=<b>継続:</b>プレイヤー1人は汚れた翡翠2枚を得る。汚染トラックを前進させる。
+<i>"The Nameless bring with them legions of monstrosities. But the 荒廃の支配者's favorites are the ones he breathes to life from the cave walls."</i> <smallcaps>カディア, Breach Mage Delver</smallcaps>=<i>「ネームレスは怪物の軍団を連れてくる。しかし、荒廃の支配者のお気に入りは、洞窟の壁から命を吹き込まれたものだ。」</i> <smallcaps>破孔魔術士デルバー、カディア</smallcaps>
+Tainted Jade=汚れた翡翠
+Gain 2 <sprite name\="Aether" color\=#FFFFFF>. Suffer 1 damage.\r\n<b>OR</b>\r\nSpend 2 <sprite name\="Aether" color\=#FFFFFF> to destroy this. If you destroy this card in any other way, suffer 1 damage.=2 <sprite name\="Aether" color\=#FFFFFF>得る。<br>1ダメージを受ける。<br><b>または</b><br>2 <sprite name\="Aether" color\=#FFFFFF> を消費してこれを破壊する。<br>他の方法でこのカードが破壊した場合1ダメージを受ける。
+
+<i>"The tainted jade calls to those weak enough to listen."</i> <smallcaps>Ghan, Gem Scavenger</smallcaps>=<i>「汚れた翡翠は、耳を傾けるだけの弱い者に呼びかける。」</i> <smallcaps>宝石採掘者 ガーン</smallcaps>
+

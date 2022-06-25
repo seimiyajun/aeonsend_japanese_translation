@@ -1,0 +1,107 @@
+﻿// wave1
+// 階層1 アタック
+Aether Shock=エーテルショック
+Unleash.\r\nThe player with the most prepped spells suffers 1 damage and discards a prepped spell.=暴走。<br>セット中の呪文が最も多いプレイヤーは1ダメージを受け、セット中の呪文1枚を捨てる。
+
+Disorient=迷わせる
+Unleash.\r\nプレイヤー1人 suffers 1 damage and discards a card in hand.\r\nIf that card is a gem, Gravehold suffers 2 damage.=暴走。<br>プレイヤー1人は1ダメージを受け、手札を1枚捨てる。<br>そのカードが宝石だった場合、グレイヴホールドは2ダメージを受ける。
+
+Rend=引破る
+Unleash.\r\nGravehold suffers 1 damage.\r\nプレイヤー1人 suffers 2 damage.=暴走。<br>グレイヴホールドは1ダメージを受ける。<br>プレイヤー1人は2ダメージを受ける。
+
+
+// 階層1 パワー
+Ceaseless Darkness=絶え間ない闇
+<b>TO DISCARD:</b> Spend 5 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash. プレイヤー1人 suffers 3 damage. プレイヤー1人 discards a card in hand.=<b>廃棄: </b> 5<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b> 暴走。<br>プレイヤー1人は3ダメージを受ける。<br>プレイヤー1人は手札を1枚捨てる。
+
+Chaos Orb=混沌オーブ
+<b>TO DISCARD:</b> Spend 6 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> Unleash. Gravehold suffers 4 damage.=<b>廃棄: </b> 6<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3: </b> 暴走。<br>グレイヴホールドは4ダメージを受ける。
+
+Planar Collision=平面衝突
+<b>TO DISCARD:</b> Discard two prepped spells.\r\n<b>POWER 2:</b> Unleash twice.=<b>廃棄:</b>セット中の呪文2つを捨てる。<br><b>パワー2:</b> 暴走(2回)。
+
+SpiritSnare=精神誘惑
+<b>TO DISCARD:</b> Discard a card in hand that costs 5 <sprite name\="Aether" color\=#FFFFFF> or more.\r\n<b>POWER 3:</b> Unleash. プレイヤー1人 discards a spell in hand and suffers 2 damage.=<b>廃棄:</b>自分の手札の 5 <sprite name\="Aether" color\=#FFFFFF> 以上のカードを捨てる。<br><b>パワー3: </b> 暴走。<br>プレイヤー1人は自分の手札の呪文カードを1枚捨て、2ダメージを受ける。
+
+// 階層1 ミニオン
+Blind Enigma=ブラインドエニグマ
+<b>PERSISTENT:</b> プレイヤー1人 suffers 1 damage. If the nemesis tier is 2 or higher, that player suffers 2 additional damage.=<b>継続: </b>プレイヤー1人は1ダメージを受ける。ネメシスの階層が2以上の場合、そのプレイヤーは追加で2ダメージを受ける。
+
+Carriode Colony=カリオードコロニー
+<b>IMMEDIATELY:</b> This minion suffers damage equal to the number of players in the game.\r\n<b>PERSISTENT:</b> Unleash.=<b>即時: </b> このミニオンはゲームに参加しているプレイヤーの数に等しいダメージを受ける。<br><b>継続: </b>暴走
+
+Drillbeak Wurm=ドリルビーク・ワーム
+<b>PERSISTENT:</b> プレイヤー1人 suffers 1 damage. Gravehold suffers 1 damage.=<b>継続:</b>プレイヤー1人は1ダメージを受ける。<br>グレイヴホールドは1ダメージを受ける。
+
+
+// 階層2 アタック
+Decay=堕落
+Unleash twice.\r\nプレイヤー1人 or Gravehold suffers 3 damage.=暴走2回。<br>プレイヤー1人、または、グレイヴホールドは3ダメージ受ける。
+
+Dement=発狂
+Unleash twice.\r\nプレイヤー1人 suffers 1 damage and places their most expensive card in hand on top of their deck.=暴走2回。<br>プレイヤー1人は1ダメージを受け、手札の中で最もコストの高いカードを自分の山札の一番上に置く。
+
+Fugue=遁走
+プレイヤー1人 discards three cards in hand and suffers 2 damage.=プレイヤー1人は手札を3枚捨て、2ダメージを受ける。
+
+Mutilate=切断
+Unleash.\r\nThe players collectively discard two prepped spells.\r\nプレイヤー1人 suffers 2 damage.=暴走。<br>全プレイヤーを通じてセットしている呪文を2つ捨てる。\nプレイヤー1人は2ダメージを受ける。
+
+
+// 階層2 パワー
+Gravity Splinter=重力片
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash twice.\r\nThe player with the fewest opened breaches suffers 3 damage.=<b>廃棄: </b> 7 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b> 暴走(2回)。<br>開放状態の破孔が最も少ないプレイヤー1人は3ダメージを受ける。
+
+Morbid Gyre=病的環流
+<b>TO DISCARD:</b> Spend 7 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 1:</b> Unleash twice.\r\nThe players collectively discard three cards in hand.=<b>廃棄:</b> 7 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー1: </b> <nobr>暴走(2回)。</nobr><br>全プレイヤーを通じて手札から3枚を捨てる。
+
+Obliterating Meteor=抹消する流星
+<b>TO DISCARD:</b> Discard four cards in hand.\r\n<b>POWER 1:</b> Unleash twice. Gravehold suffers 3 damage.=<b>廃棄: </b> 手札を4枚捨てる。<br><b>パワー1: </b>暴走(2回)。<br>グレイヴホールドは3ダメージを受ける。
+
+Crushing Storm=粉砕嵐
+<b>TO DISCARD:</b> Destroy two opened breaches.\r\n<b>POWER 1:</b> Unleash three times.=<b>廃棄: </b> 開放状態の破孔2つを破壊する。<br><b>パワー1: </b>  暴走(3回)。
+
+
+// 階層2 ミニオン
+Portal Guardian=門の守護者
+
+Volcanic Zala=火山ザラ
+<b>PERSISTENT:</b> Gravehold suffers 3 damage.\r\n<b>OR</b>\r\nプレイヤー1人 loses 2 charges.=<b>継続:</b>グレイヴホールドは3ダメージを受ける。<br><b>または</b><br>プレーヤーは2チャージを失う。
+
+// 階層3 アタック
+Disperse=分散
+Unleash twice.\r\nプレイヤー1人 suffers 2 damage and destroys their most expensive card in hand.=暴走(2回)。<br>プレイヤー1人は2ダメージを受け、手札の中で最も高価なカードを破壊する。
+
+Eliminate=排除
+Unleash three times.\r\n<b>OR</b>\r\nGravehold suffers 6 damage.\r\n<b>OR</b>\r\nプレイヤー1人 suffers 5 damage.=暴走(3回)。<br><b>または</b><br>グレイヴホールドは6ダメージを受ける。<br><b>または</b><br>プレイヤー1人は5ダメージを受ける。
+
+Gore=流血
+Unleash twice.\r\nThe player with the most expensive card in hand discards three cards in hand. Then, for each card in that player's hand that costs <nobr>2 <sprite name\="Aether" color\=#FFFFFF></nobr> or more, that player suffers 2 damage.=暴走(2回)。<br>手札の中で最もコストの高いカードを持っているプレイヤーは手札を3枚捨てる。<br>その後、そのプレイヤーの手札にあるコスト<nobr>2<sprite name\="Aether" color\=#FFFFFF></nobr>以上のカード1枚につき、そのプレイヤーは2 ダメージを受ける。
+
+
+// 階層3 パワー
+Gnashing Maw=歯ぎしりMaw
+<b>POWER 2:</b> Unleash. The player with the most expensive prepped spell destroys it. If that spell costs <nobr>4 <sprite name\="Aether" color\=#FFFFFF></nobr> or less, Unleash and プレイヤー1人 suffers 3 damage.=<b>パワー2: </b> 暴走。<br>最もコストの高いセットしている呪文を持つプレイヤーはそれを破壊する。<br>その呪文のコストが 4 <sprite name\="Aether" color\=#FFFFFF> 以下であれば、暴走、プレイヤー1人は3ダメージを受ける。
+
+
+
+// 階層3 ミニオン
+Eternal Watcher=永遠のウォッチャー
+<b>PERSISTENT:</b> プレイヤー1人 suffers 3 damage. If this minion has 6 or less life, it gains 3 life.=<b>継続:</b>プレイヤー1人は3ダメージを受ける。<br>このミニオンの体力が6以下の場合、このミニオンは体力3を得る。
+
+Monstrosity of Omens=前兆の魔物
+When damage is dealt to this minion, reduce that damage to 1.\r\n<b>PERSISTENT:</b> Gravehold suffers damage equal to this minion's current life.=このミニオンにダメージを与える時、そのダメージは1まで減少する。<br><b>継続:</b>グレイヴホールドはこのミニオンの現在の体力に等しいダメージを受ける。
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+﻿// 初期カード
+Spark=スパーク
+Deal 1 damage.=1ダメージを与える。
+<i>"A spark is all that is necessary to rouse the flame."</i> <smallcaps>マラスター, Breach Mage Mentor</smallcaps>=<i>"炎を呼び起こすのに必要なのは火花だ"</i> <smallcaps>マラスター、破孔魔術師の助言者</smallcaps>
+
+Crystal=水晶
+Gain 1 <sprite name\="Aether" color\=#FFFFFF>.=1 <sprite name\="Aether" color\=#FFFFFF>を得る。
+<i>"The aether is trapped in even the simplest of stones. Now these gems grant us the same power that put our world low."</i> <smallcaps>ブラマ, Breach Mage Elder</smallcaps>=<i>"エーテルは最も単純な石にさえ閉じ込められている。 今、これらの宝石は、我々の世界を低くしたのと同じ力を我々に与える。"</i> <smallcaps>ブラマ、破孔魔術師エルダー</smallcaps>
+
+
+// 専用カード
+Emerald Shard=エメラルド片
+Gain 1 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>OR</b>\r\nプレイヤー1人 gains 1 life.=1 <sprite name\="Aether" color\=#FFFFFF>を得る。\r\n<b>または</b>\r\nプレイヤー1人は体力1を得る。
+The caves run deep in Gravehold, some say to a shadow city even older than time. Yet none have delved as deep as カディア.=グレイヴホールドの洞窟は深く、ある者は時間よりも古い影の都市まで続いていると言う。 しかし、カディアほど深く掘り下げた者はいない。
+
+Amethyst Shard=アメジスト片
+Gain <nobr>1 <sprite name\="Aether" color\=#FFFFFF>.</nobr>\r\nAny ally may draw a card and then discard a card in hand.= <nobr>1 <sprite name\="Aether" color\=#FFFFFF>を得る。</nobr><br>仲間1人はカードを1枚引き、その後、手札にあるカード１枚を捨ててもよい。
+There is an irony to the weaponsmith that is best described as "<i>blunt</i>."=武器職人には皮肉がある。<i>鈍感</i>."

@@ -1,0 +1,73 @@
+﻿// トップ画面
+Loading News...=ニュースを読み込む...
+
+// ベータ版
+Beta Feedback=ベータ版フィードバック
+If the game crashed, please send feedback now.=ゲームがクラッシュした場合は、今すぐフィードバックを送信してください。
+Send Beta Feedback=ベータ版のフィードバックを送信する
+Version Label=バージョンラベル
+Enter Trello card or continue file URL and press Enter to load...=Trelloカードまたは継続ファイルのURLを入力し、Enterキーを押して読み込む...
+r:"^(.+) All Content"=すべてのコンテンツを$1
+
+
+Hello There!=やあ、ようこそ
+Thanks for helping out with beta testing! You're a part of making the game the best it can be.=ベータテストを手伝ってくれてありがとう! あなたはこのゲームを最高のものにする役割を担っています。
+
+Heal All=全回復させる
+Win the Game=ゲームに勝つ
+Quit Game=ゲームをやめる
+Lose the Game=ゲームに負ける
+
+Abandon Game=ゲームを放棄する
+Cancel=キャンセル
+Abandon Game in Progress?=進行中のゲームを放棄しますか？
+Are you sure you want to abandon your game in progress? It will count as a loss in your statistics.=本当に進行中のゲームを放棄するのですか？統計上、負けとしてカウントされます。
+
+
+// メニュー
+Quick\nPlay=クイック\nプレイ
+New\nGame=ニュー\nゲーム
+Expedition\nMode=遠征\nモード
+
+How to Play=プレイ方法
+Card Library=カードライブラリ
+Customize=カスタマイズ
+Achievements=実績
+Options=オプション
+Statistics=統計情報
+Credits=クレジット
+
+Help & Feedback=ヘルプ＆フィードバック
+Resume\nGame=レジューム\nゲーム
+Loading...=   読み込み中...
+
+//トップメニュー広告(未整理)
+Play the hit settler destruction game, Spirit Island, today! Available now for Steam, iPad and Android tablets.=大ヒット開拓者破壊ゲーム『スピリット・アイランド』を今すぐプレイ! Steam、iPad、Androidタブレット向けに配信中。
+Play Spirit Island!=スピリットアイランドをプレイ！
+Shop now!=今すぐお買い求めください
+
+The latest expansion to Spirit Island has launched! Branch and Claw brings all new spirits, powers, and an adversary to the mix. Help defend your island from invaders with new strengths today.=スピリット・アイランドの最新拡張版が発売されました 「ブランチ・アンド・クロー」では、すべての新しい精霊、力、そして敵が登場します。新たな力で侵略者から島を守るために、今すぐ協力しましょう。
+Branch out with your Claws out!=ツメを伸ばしてブランチアウト!
+Dawn of The New Age!=新時代の幕開け!
+The New Age has arrived for Aeon's End! Get the DLC today to introduce new mages, Nameless, expedition mode, and more!=イーオンズエンドにニューエイジ到来! 新魔術師、ネームレス、遠征モードなどに登場するDLCを今すぐ入手しよう!
+Spirit Island on the go!=スピリット・アイランドを外出先で!
+Help the spirits drive the invaders away from the island, now on mobile! Get Spirit Island for your iPad and Android tablets or smartphones to play on the go. Learn to play for free, download today!=精霊を助けて侵略者を島から追い払おう！モバイルで登場。iPad や Android タブレット、スマートフォンで「スピリット・アイランド」をプレイして、外出先でもお楽しみください。無料でプレイできるようになるには、今すぐダウンロードしよう。
+Abyssal Depths Arrives!=アビサルデプスが登場!
+One Deck Dungeon's latest DLC has arrived with a splash! The all new Abyssal Depths expansion comes with 2 new characters and introduces the intense fiend mechanic. Pick it up today on Steam, iOS, and Google Play for $4.99(USD)=ワンデッキダンジョン最新DLCがドドーンと登場!  2つの新しいキャラクターと強烈なフィーンドメカニックを導入しています。Steam、iOS、Google Playにて、本日4.99ドル(USD)より配信開始。
+
+Donate to WHO's Solidarity Response Fund to help bolster efforts against COVID-19. Let's all digitally come together!=COVID-19に対する取り組みを強化するため、WHOの「連帯対応基金」に寄付をすることができます。デジタルで集まろう！
+Help WHO Fight!=WHOの闘いを支援しよう!
+Join our Discord server!=Discordサーバーに参加しよう
+
+Hang out with fellow fans, streamers, and devs! Find people to play games with, discuss strategy, and more. Join the Handelabra Discord server today.=ファン、ストリーマー、開発者仲間と一緒に遊ぼう! 一緒にゲームをプレイしたり、戦略について話し合ったりする仲間を見つけよう。Handelabra Discord サーバーに今すぐ参加しましょう。
+
+
+Join now!=今すぐ参加する
+Donate!=寄付！
+Play today!=今日プレイ！
+An all new character has arrived from the world of One Deck Dungeon: Xae! Promo Pack 1 is now available for you to add to your Gravehold saving roster. Head over to the New Game screen to recruit Xae today!=ワン・デッキ・ダンジョンの世界から、まったく新しいキャラクターが登場。ザエです。プロモパック1が発売され、あなたのグレイヴホールドを救う仲間に加えられるようになりました。今すぐニューゲーム画面へ移動し、「ザエ」を仲間にしましょう。
+From the Dungeon's Depths!=ダンジョンの最深部から！
+
+Two new Spirits have arrived to Spirit Island! Get Promo Pack 1 to add Serpent Slumbering Beneath the Island and Heart of the Wildfire to your game for $2.99(USD) on Steam!=スピリットアイランドに新たなスピリッツが2体登場! プロモパック1を購入すると、「島の下でまどろむ蛇」と「野火の心」がSteamで2.99ドル(USD)であなたのゲームに追加されます
+New Spirit Island Content!=新しいスピリットアイランドコンテンツ！
+Play today!=今すぐプレイ

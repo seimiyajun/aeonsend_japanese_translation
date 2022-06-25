@@ -1,0 +1,22 @@
+﻿// Battle3 Introduction
+As you make your way through muddy wetlands, you are ambushed by another Nameless!=泥だらけの湿地帯を抜ける時、新たなネームレスの待ち伏せにあった!
+It seems even stronger than usual, but your powerful artifacts may turn the tide.=いつもより強そうな相手に見えるが、強力なアーティファクトが流れを変えてくれるだろう。
+
+// Battle3 Conclusion
+The Nameless is defeated, and you can take a breath. A glint of light catches your eye in the debris...=ネームレスを撃退し、一呼吸つく。あなたの瞳は残骸の中にぎらりとした輝きを見つけた。。。
+
+
+// Battle4 Introduction
+You finally make your way out of the swamp, but unknown lands await.=ようやく沼から抜け出した。しかし未知の土地が待ち受けている。
+You've never been this far from New Gravehold. The sense of danger is overwhelming...=ニュー・グレイヴホールドからこんなに遠く離れたことはなかった。それに気づいて危機感に圧倒される。
+You've never been this far from New Gravehold. The sense of danger is overwhelming.=ニュー・グレイヴホールドからこんなに遠く離れたことはなかった。それに気づいて危機感に圧倒される。
+Everything you've trained and prepared for has come down to this, the ultimate test.=今まで訓練し、準備してきた全てはこの究極の試練のためにあった。
+
+// Battle4 Conclusion
+// 敗北時
+You and your allies have escaped the Nameless for now.\nWith some help, you must finish the fight!=今、あなたと仲間はネームレスから逃げてきました。\n何らかの助けを得て、あなたは戦いを終わらせなければなりません!
+Once more into the breach, my friends!=友よ、もう一度破孔に入りましょう!
+
+// 勝利時
+You are triumphant! The Nameless falls before you. You return to New Gravehold for a well-deserved rest.=ついに打ち勝った!\nネームレスはあなたの前に倒れ伏した。あなたは当然の休息のためニュー・グレイヴホールドへの帰路についた。
+The work of a breach mage is never done, and it won't be long before you'll be called to return to the wild...=破孔魔術師の仕事は終わることはなく、あなたが野生に戻るよう呼び出されるまでそう長くはかからないでしょう...

@@ -1,0 +1,153 @@
+﻿// メニュー・操作指示
+menu=<size\=80%>メニュー</size>
+Play All Gems=宝石を全て使う
+End Turn=ターン終了する
+Skip=スキップ
+
+
+Draw=<size\=60%>手札補充フェイズ</size>
+Casting=<size\=60%>呪文フェイズ</size>
+Main=<size\=60%>メインフェイズ</size>
+
+Click or drag a gem or relic here to play it.=<size\=80%>宝石や遺物をクリックまたはここへドラッグして使用する。</size>
+Click or drag a card down to your discard to gain it.=カードをクリックまたはドラッグして捨札に移すと、そのカードが獲得できる。
+Click a mage's life indicator to assign the damage.=魔術師の体力をクリックすると、ダメージが割り振られます。
+Click or drag cards to your discard below.=カードをクリックまたはドラッグして、下の捨札に移動する。
+Click a mage's charge ability button to gain a charge.=魔術師のチャージボタンをクリックして、チャージを得る。
+Click a card in hand to discard it.=手札のカードをクリックしてそのカードを捨てる。
+Click a power card\nto perform the\nTo Discard actions.=パワーカードをクリックして、破棄アクションを実行する。
+Click a card in your hand or discard to destroy it.=手札・捨札のカードをクリックしてそのカードを破壊する。
+Click a card to select it.=カードをクリックして選択する。
+Drag a spell from a breach to an enemy to cast it.=呪文を破孔から敵にドラッグしてキャストする。
+Click or \ndrag a spell\nto a breach\nto prep it.=<size\=60%>呪文をクリックまたはドラッグして破孔にセットする。</size>
+r:"<sprite name\\=\"GainAether\"><space\\=-1\.1em><sprite name\\=\"([0-9])\"> Focus"=<sprite name\>="GainAether"><space\=-1.1em><sprite name\="$1"> 強化
+r:"<sprite name\\=\"GainAether\"><space\\=-1\.1em><sprite name\\=\"([0-9])\"> Open"=<sprite name\>="GainAether"><space\=-1.1em><sprite name\="$1"> 開放
+<sprite name\="GainAether"><space\=-1.1em><sprite name\="4"> Focus=<sprite name\="GainAether"><space\=-1.1em><sprite name\="4"> 強化
+<sprite name\="GainAether"><space\=-1.1em><sprite name\="3"> Open=<sprite name\="GainAether"><space\=-1.1em><sprite name\="3"> 開放
+r:"Destroy ([0-4]) cards in hand"=手札から$1枚破壊する
+
+Warning: you can take more actions!=警告:まだ行動できます
+End Anyway=構わず終わらせる
+
+
+// 破孔
+r:Once Opened:\\n\+([0-9]) Damage on Cast=開放後<br>キャスト時ダメージ+$1
+
+
+// 頻出テキスト
+r:"^(.+) loses a charge"=$1が1チャージ消費する
+r:"^(.+) loses ([0-9]) charges"=$1が$2チャージ消費する
+Gain 1 charge.=1チャージを得る。
+r:"^(.+) gains 1 charge"=$1は1チャージを得る
+r:"^([^ ]+) gains ([0-9]) charges"=$1は$2チャージを得る
+r:"^Click a card in (.+)\'s hand to discard it\."=$1の手札から捨てるカード1枚を選んでください
+Click a card in hand to discard it.=手札から捨てるカード1枚を選んでください
+
+r:"^(.+) destroys a card"=$1がカード1枚を破壊する
+r:"^(.+) destroys cards"=$1がカードを破壊する
+
+
+r:"^(.+) gains ([0-9]) life"=$1は体力$2を得る
+r:"^(.+) gains life"=$1は体力を得る
+r:^Suffer ([0-9]) damage=$1ダメージを受ける
+r:"^([^ ]+) suffers ([0-9]) damage"=$1は$2ダメージを受ける
+r:"^Gravehold suffers ([0-9]) damage"=グレイヴホールドは$1ダメージを受ける
+
+r:"^The player with the lowest life suffers ([0-9]) damage."=最も体力の低いプレイヤーは$1ダメージを受ける
+
+
+r:"^< ([0-9]) <sprite name\="Aether">=< $1 <sprite name\="Aether">(エーテル)。
+
+r:"^(.+) places the card on their discard pile"=そのカードを$1の捨て山に置く
+
+r:"Congratulations, you have destroyed (.+)! Gravehold still stands... for now..."=おめでとう!$1を討伐した! グレイヴホールドはまだ残っている...今のところは...
+
+
+Revealed Cards=公開されたカード
+Don't Gain Card=カードを獲得しない
+
+
+
+// 勝利or敗北
+Game Over: Victory!=ゲーム終了: 勝利!
+Game Over: Defeat...=ゲームオーバー: 敗北...
+
+The nemesis has no cards in its deck and no minions or powers in play.=ネメシスデッキは空になり、ミニオンもパワーも場に出ていない。
+The nemesis has 0 life.=ネメシスの体力が0になった
+Gravehold is destroyed...=グレイヴホールドが破壊された...
+(click to continue)=(クリックで続行)
+
+Try\nAgain=再挑戦
+Main\nMenu=メイン\nメニュー
+Share=シェア
+
+Random=ランダム
+Release Date=リリース順
+Alphabetical=アルファベット順
+
+Help=ヘルプ
+Difficulty=難易度
+Beginner=初級
+Each mage starts with 12 <sprite name\="Heal" color\=#FFFFFF>\r\nGravehold starts with 35 <sprite name\="Heal" color\=#FFFFFF>\r\nThe nemesis starts with 10 less <sprite name\="Heal" color\=#FFFFFF>=各魔術師は<sprite name\="Heal" color\=#FFFFFF>12<br>グレイヴホールドは<sprite name\="Heal" color\=#FFFFFF>35<br>ネメシスは<sprite name\="Heal" color\=#FFFFFF>-10 
+Each mage starts with 10 <sprite name\="Heal" color\=#FFFFFF>\r\nGravehold starts with 30 <sprite name\="Heal" color\=#FFFFFF>=各魔術師は<sprite name\="Heal" color\=#FFFFFF>10<br>グレイヴホールドは<sprite name\="Heal" color\=#FFFFFF>30
+Each mage starts with 10 <sprite name\="Heal" color\=#FFFFFF>\r\nGravehold starts with 30 <sprite name\="Heal" color\=#FFFFFF>\r\nNemesis Increased Difficulty rules are used.=各魔術師は<sprite name\="Heal" color\=#FFFFFF>10<br>グレイヴホールドは<sprite name\="Heal" color\=#FFFFFF>30<br>ネメシス難易度上昇ルールを使用する。
+Each mage starts the game with 8 <sprite name\="Heal" color\=#FFFFFF>\r\nGravehold starts with 25 <sprite name\="Heal" color\=#FFFFFF>\r\nThe nemesis starts with 10 more <sprite name\="Heal" color\=#FFFFFF>\r\nNemesis Increased Difficulty rules are used.=各魔術師は<sprite name\="Heal" color\=#FFFFFF>8<br>グレイヴホールドは<sprite name\="Heal" color\=#FFFFFF>25<br>ネメシスはさらに<sprite name\="Heal" color\=#FFFFFF>+10<br>ネメシスは難易度上昇ルールを使用する
+
+
+Normal=通常
+Expert=エキスパート
+Extinction=自殺志願者
+
+Choose a Nemesis=<size\=80%>ネメシスを選択</size>
+Choose 1-4 Mages=<size\=80%>1から4名の魔術師を選択</size>
+
+Random Mix=ランダム
+Use a random combination of all owned basic nemesis cards with no regards to the proportion of attacks, minions, and powers.=所有するすべてのネメシス基本カードを、攻撃、ミニオン、パワーの割合に関係なくランダムに組み合わせて使用する。
+
+Balanced Mix=バランス
+Use a random combination of all owned basic nemesis cards with a balanced proportion of attacks, minions, and powers.=所有するすべてのネメシス基本カードをランダムに組み合わせ、攻撃、ミニオン、パワーをバランスよく配置して使用する。
+
+Default=デフォルト
+Use the basic nemesis cards from the wave the selected nemesis belongs to.=選択したネメシスのウェーブのネメシス基本カードを使用する。
+
+Use the basic nemesis cards from Aeon's End (core game) and Promo Pack 1.=イーオンズエンド(コアゲーム)とプロモパック1のネメシス基本カードを使用する。
+Use the basic nemesis cards from The New Age.=ニューエイジのネメシス基本カードを使用する。
+r:"One turn order card for each player, plus the wild card\. The wild turn alternates between (.+), (.+), (.+)."=各プレイヤーに1枚ずつあるターン順カードと、さらにワイルドカードがある。ワイルドのターンは、$1、$2、$3の間で交互に行われる。
+
+Turn Order=ターン順カード
+
+Balanced Wild=バランスド・ワイルド
+Unrestricted Wild=ワイルドの制限なし
+One turn order card for each player, plus the wild card. The players choose who takes each wild turn.=各プレイヤーに1枚ずつターン順カードがあり、さらにワイルドカードがある。ワイルドのターンを誰が行うかはプレイヤーが選択する。
+
+Individual Cards=個別のカード
+One turn order card for each player.=ターン順カードは各プレイヤーに1枚ずつ。
+
+Paired Mages=ペア魔術師
+r:"Two turn order cards for each pair of players \((.+)/(.+) & (.+)/(.+)\). Each player gets one turn per round."=各ペア($1/$2 & $3/$4)のターン順カードを2枚ずつ。<br>各プレイヤーは1ラウンドに1回ずつターンを得る。
+
+2 Cards Each=各2枚
+Two turn order cards for each player.=ターン順カードは各プレイヤーに2枚ずつ。
+
+4 Cards=カード4枚
+Four player turn order cards.=プレイヤーのターン順カードは4枚。
+
+3 Cards=カード3枚
+Three player turn order cards.=プレイヤーのターン順カードは3枚。
+
+4/3 Alternating=交互に4か3枚
+Four or three player turn order cards alternating between rounds.=1ラウンドごとに4枚または3枚のプレイヤーのターン順カードを使用する。
+Fight!=出撃!
+
+No mages are selected.=魔術師が未選択です。
+
+
+Choose Supply=サプライを選択
+Anything Goes=なんでもいいよ
+Balanced=バランス型
+Big Spender=浪費家
+Master of Magic=魔術の専門家
+Triple Threat=3つの脅威
+Shiny!=キラキラ!
+Antique Shop=古美術商
+

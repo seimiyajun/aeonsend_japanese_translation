@@ -1,0 +1,4 @@
+﻿// コスト3
+
+Leeching Agate=吸血メノウ
+When you gain this, gain 1 charge.\r\nGain 2 <sprite name\="Aether" color\=#FFFFFF>.=これを得たとき、チャージ1を得る。<br>2 <sprite name\="Aether" color\=#FFFFFF>を得る。

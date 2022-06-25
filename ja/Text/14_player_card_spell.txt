@@ -1,0 +1,10 @@
+﻿
+// コスト7
+Patterned Strike=模範的攻撃
+<b>Cast:</b> Deal 4 damage.\r\nYou may return to your hand up to two cards in your discard pile that cost 0 <sprite name\="Aether" color\=#FFFFFF>.=<b>キャスト:</b> 4ダメージを与える。\r\n あなたは自分の捨て山にあるコスト0 <sprite name\="Aether" color\=#FFFFFF>のカードを2枚まで手札に戻してもよい。 
+
+Disintegrating Scythe=崩壊の大鎌
+<b>Cast:</b> Deal 8 damage.\r\nSuffer 1 damage. Instead of discarding this, destroy it or place it on top of プレイヤー1人's discard pile.=<b>キャスト:</b> 8ダメージを与える。<br>1ダメージを受ける。<br>これを捨てる代わりに、これを破壊するか、プレイヤー1人の捨て山の一番上に置く。
+<i>"Being struck by lightning would only be half as bad."</i> <smallcaps>ラッシュ, Breach Mage Scout</smallcaps>=<i>"雷に打たれても半分ですむ"</i> <smallcaps>ラッシュ、破孔魔術師スカウト</smallcaps>
+Destroy this card=このカードを破壊する
+Place on any discard pile=任意のプレイヤーの捨て山に置く

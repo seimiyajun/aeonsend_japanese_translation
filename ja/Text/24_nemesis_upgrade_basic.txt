@@ -1,0 +1,45 @@
+﻿// upgrade basic
+// 階層1
+Bane Commander=ベイン司令官
+
+Hissing Acid=シューという酸
+<b>TO DISCARD:</b> Spend 6 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 3:</b> Reveal the top card of the turn order deck. If it's a player turn order card, Unleash three times. Otherwise, プレイヤー1人 suffers 5 damage.=<b>廃棄: </b> 6<sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー3: </b> ターン順デッキの一番上のカードを公開する。<br>それがプレイヤーのターン順カードである場合、暴走3回。<br>そうでない場合、プレイヤー1人は5ダメージを受ける。
+
+Wreck=遭難
+Unleash twice.\r\nGravehold suffers 1 damage.=暴走2回。<br>グレイヴホールドは1ダメージを受ける。
+
+// 階層2
+Engulfing Madness=巻き込まれる狂気
+<b>TO DISCARD:</b> Spend 8 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 1:</b> Unleash twice. プレイヤー1人 suffers 4 damage.=<b>廃棄: </b> 8 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー1: </b> 暴走2回。<br>プレイヤー1人は4ダメージを受ける。
+
+Marked=狙いをつける
+Unleash twice.\r\nThe player with the lowest life suffers 3 damage.=暴走(2回)。<br>体力が最も少ないプレイヤーは3ダメージを受ける。
+
+Needle Doom=ニードルドゥーム
+<b>PERSISTENT:</b> Unleash. Gravehold suffers 2 damage.=<b>継続:</b>暴走。<br>グレイヴホールドは2ダメージを受ける。
+
+Separate=引き裂く
+Unleash twice.\r\nGravehold suffers 2 damage.\r\nThe player with the most expensive prepped spell discards that spell.=暴走(2回)。<br>グレイヴホールドは2ダメージを受ける。<br>最も高価な呪文をセット中のプレーヤーは、その呪文を捨てる。
+
+Sky Tremor=空の震動
+
+// 階層3
+Burialskulk=バリアルスカーク
+
+Eradicate=撲滅
+Unleash twice.\r\nプレイヤー1人 discards their three most expensive cards in hand.=暴走(2回)。<br>プレイヤー1人は手札の中で最も高価なカードを3枚捨てる。
+
+Flash of Decay=崩壊のフラッシュ
+<b>POWER 2:</b> Unleash twice.\r\nThe player with the most expensive prepped spell destroys it. If that spell costs <nobr>4 <sprite name\="Aether" color\=#FFFFFF></nobr> or less, or no spell was destroyed, Unleash.=<b>パワー2：</b> 暴走(2回)。<br>最もコストの高いセットしている呪文を持つプレイヤーはその呪文を破壊する。<br>その呪文のコストが4 <sprite name\="Aether" color\=#FFFFFF>以下か、呪文が破壊されていない場合、暴走。
+
+Ray of Desolation=荒廃の光線
+<b>POWER 1:</b> Unleash twice.\r\nThe players collectively destroy the two most expensive prepped spells.=<b>パワー1:</b> 暴走(2回)。<br>全プレイヤーを通じてセット中の呪文のうち最も高価な2つを破壊する。
+
+Sacrifice=生贄
+Unleash four times.\r\n<b>OR</b>\r\nGravehold suffers 4 damage and プレイヤー1人 suffers 4 damage.=暴走(4回)。<br><b>または</b><br>グレイヴホールドは4ダメージを受け、プレイヤー1人は4ダメージを受ける。
+
+Terrify=脅す
+Unleash three times.\r\nGravehold suffers 2 damage.\r\nプレイヤー1人 destroys two cards in hand.=暴走(3回)。<br>グレイヴホールドは2ダメージを受ける。<br>プレイヤー1人は手札を2枚破棄する。
+
+Thunderous Tempest=雷雨
+<b>TO DISCARD:</b> Spend 9 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash. If there are two nemesis turn order cards in the turn order discard pile, プレイヤー1人 suffers 8 damage. Otherwise, プレイヤー1人 suffers 5 damage.=<b>廃棄: </b> 9 <sprite name\="Aether" color\=#FFFFFF>を消費する。<br><b>パワー2: </b> 暴走。<br>ターン順カードの捨山にネメシスターン順カードが2枚ある場合、プレイヤー1人は8ダメージを受ける。<br>そうでない場合、プレイヤー1人は5ダメージを受ける。

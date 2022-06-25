@@ -1,0 +1,32 @@
+﻿Narrative=物語
+Custom=カスタム
+
+// narrative
+Select an Expedition=遠征を選択
+The New Age=ニューエイジ
+
+It has been a week since Commander ソスケル, one of New Gravehold’s most decorated breach mages, led an expedition to the north. They were scheduled to return days ago, and the Council fears the worst.\n\nクラウディア, ガイガー, サハラ, and タクレン are chosen to join the expedition and locate the missing party...=ニュー・グレイヴホールド屈指の破孔魔術師であるソスケル司令官が北方遠征隊を率いてから1週間が経過した。彼らは数日前に戻ってくる予定だったが、評議会は最悪の事態を恐れている。<br><br>クラウディア、ガイガー、サハラ、タクレンの4人は遠征隊に加わり、行方不明者の居場所を突き止めることになった。
+
+Begin Expedition=遠征を開始する
+
+// custom
+Expedition Length=遠征の長さ
+Short=短い
+Extended=長い
+
+Big Pockets=<size\=80%>ビッグポケット</size>
+Unused player cards are banished.=未使用のプレーヤーカードは追放されます。
+Unused player cards are returned to the Barracks instead of banishing them.=未使用のプレイヤーカードは、追放せずに兵舎に戻します。
+
+
+r:"High Score\: ([0-9]+) Points"=ハイスコア: $1ポイント
+High Score: None=ハイスコア: なし
+
+Leaderboard=リーダーボード
+
+A group of breach mages embarks on a brief mission to find and defeat Nameless near New Gravehold.\n\nStart with a randomized set of four mages, three gems, two relics, four spells, and five Level 1 treasures in your Barracks.\n\nYou will discover more mages, player cards, and treasures over the course of three battles.=破孔魔術師の一団はニュー・グレイヴホールドの近くでネームレスを見つけ、倒すという短いミッションに乗り出した。<br>はじめに、4人の魔術師、3つの宝石、2つの遺物、4つの呪文、5つのレベル1宝物からなるランダムなセットを兵舎に配置します。<br>3回の戦闘を経て、さらに多くの破孔魔術師、プレイヤーカード、宝物を発見することができます。
+
+A group of breach mages sets out into the wilderness to protect New Gravehold from encroaching Nameless.\n\nStart with a randomized set of four mages, three gems, two relics, and four spells in your Barracks.\n\nYou will discover more mages, player cards, and treasures over the course of four battles.=破孔魔術師の一団は侵入してくるネームレスからニュー・グレイヴホールドを守るために荒野に向かった。<br>はじめに、4人の魔術師、3つの宝石、2つの遺物、4つの呪文からなるランダムなセットを兵舎に配置します。<br>4回の戦闘を経て、さらに多くの破孔魔術士、プレイヤーカード、宝物を発見することができます。
+
+A group of breach mages prepares for a long tour of duty out in the wild.\n\nStart with a randomized set of four mages, three gems, two relics, and four spells in your Barracks.\n\nYou will discover more mages, player cards, and treasures over the course of eight battles.=破孔魔術師の一団は荒野での長い任務のために準備する。<br>はじめに、4人の魔術師、3つの宝石、2つの遺物、4つの呪文からなるランダムなセットを兵舎に配置します。<br>8回の戦闘を経て、さらに多くの破孔魔術士、プレイヤーカード、宝物を発見することができます。
+

@@ -1,0 +1,26 @@
+﻿Back=戻る
+
+// 下メニュー
+Nemesis Cards=ネメシスカード
+Nemeses=ネメシス
+Mages=破孔魔術師
+Player Cards=プレーヤーカード
+Treasure Cards=宝物カード
+
+// basic nemesis cards
+Basic Nemesis Cards=ネメシスの基本カード
+Wave 1=ウェーブ1
+Wave 4=ウェーブ4
+Upgraded=アップグレード
+
+// nemesis
+View Mat=マットを表示
+
+// mages
+Starting Deck=開始時デッキ
+Starting Hand=開始時手札
+
+//ネメシス
+Setup=戦闘準備
+
+

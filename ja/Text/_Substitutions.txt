@@ -1,0 +1,40 @@
+﻿// 固有名詞の変換
+
+// 破孔魔術師
+Adelheim=アーデルハイム
+Brama=ブラマ
+Jian=ジアン
+Kadir=カディア
+Lash=ラッシュ
+Mist=ミスト
+Phaedraxa=フェドラクサ
+Xaxos=ザクソス
+Xae=ザエ
+Malastar=マラスター
+Nym=ニム
+Reeve=リーヴ
+Z'hana=ザーナ
+Claudia=クラウディア
+Gygar=ガイガー
+Lost=ロスト
+Rhia=リア
+Sahala=サハラ
+Soskel=ソスケル
+Talix=タリックス
+Taqren=タクレン
+
+Any player=プレイヤー1人
+any player=プレイヤー1人
+
+Rageborne=レイジボーン
+Carapace Queen=甲殻の女王
+Prince of Gluttons=暴食の公子
+Crooked Mask=歪んだ仮面
+Blight Lord=荒廃の支配者
+Horde-Crone=群妖
+Wayward One=我執体
+Maggoth=マグゴス
+Arachnos=アラクノス
+Ageless Walker=不死渡り
+Fenrix=フェンリックス
+

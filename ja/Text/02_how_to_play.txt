@@ -1,0 +1,232 @@
+﻿// メニュー
+Play Tutorial=チュートリアルをプレイ
+Getting Started=はじめに
+Gameplay=ゲームプレイ
+Reference=参照
+
+// はじめに(1/25)
+// 見出し
+Introduction=序章
+Object of the Game=ゲームの目的
+
+// テキスト
+//プレイ方法
+This isn't the end of the world. That already happened. This is what's left. Us, Gravehold, and The Nameless - creatures seeking to snatch what little we have left from our grasp. The breath in our lungs. The weak light in our eyes. For generations we have taken refuge in an ancient and haunted place, one whose first purpose was forgotten for a thousand ages, until our exodus once again filled its empty halls and hovels with our shadows. Here in the darkness, we seek a way back to the light.\r\n\r\nIt has taken the breach mages an aeon to hone their dark craft, but they are ready, they are lethal. The breaches, the very conduits through which The Nameless travel, have become our weapon. The breach mages wield this power with undeniable ambition: to survive, to take back The World That Was, to protect our home.\r=これは世界の終わりではありません。それはすでに起こったことです。これは残されたものだ 我々、グレイヴホールド、そしてネームレス - 我々に残されたわずかなものを奪おうとする生き物だ。私たちの肺の中の息。私たちの目の中の弱い光。何世代にもわたって、我々は古代の幽霊の出る場所に避難してきた。その最初の目的は、千年の間忘れ去られ、我々の脱出が再びその空のホールや小屋を我々の影で満たすまで続いた。この暗闇の中で、我々は光に戻る道を探している。\r\n\r\n破孔魔術師はその暗黒技術を磨くのに時間かかったが、彼らは準備ができており、致命的である。破孔はまさにネームレスが移動するための導管であり、我々の武器となった。破孔魔術師は否定しがたい野心を持ってこの力を振るう：生き残るため、かつての世界を取り戻すため、我々の故郷を守るため。\r
+
+Nerva, Gravehold survivor\r\n=ネルバ、グレイヴホールドの生存者\r\n
+
+Aeon's End is a cooperative deck building game where your deck is never shuffled. Your goal is to defeat the nemesis before your home, Gravehold, is overrun or the mages are exhausted.\r\n\r\nEach round, the breach mages and the nemesis will take turns in a random order. During your turn, you will be able to cast spells, acquire additional gems, relics, and spells from the supply, manipulate your spell casting breaches, and use your unique abilities. All of the different nemeses in the game are unique in the actions taken during their turns, and will require a different strategy to be defeated.\r=イーオンズエンドは、デッキがシャッフルされることのない、協力型デッキ構築ゲームです。あなたの故郷であるグレイヴホールドが制圧されるか、魔術師が枯渇する前に、ネメシスを倒すことが目標です。\r\n\r\n各ラウンド、破孔魔術師とネメシスはランダムな順番で交代します。自分のターンでは、呪文を唱えたり、サプライから追加の宝石や遺物、呪文を入手したり、呪文を唱える破孔を操作したり、固有の能力を使用したりすることができます。ゲームに登場するさまざまな敵は、いずれもターン中の行動がユニークで、倒すには別の戦略が必要になります。\r
+
+// 開始時セットアップ(2/25) ※未和訳
+
+// 遠征モード(3/25)
+<b>The New Age</b> introduces the Expedition System, which is a new way to play <i>Aeon’s End.</i>=<b>ニューエイジ</b>では、 <i>イーオンズエンド</i>の新しい遊び方である「遠征システム」を導入しています。
+Your first expedition will take you through an adventure where the mages Gygar, Sahala, Claudia, and Taqren set out to discover what has happened to Commander Soskel. After you complete the narrative expedition, you can play an unlimited number of custom expeditions using all of the <i>Aeon’s End</i> content you own.=最初の遠征では、カイガー、サハラ、クラウディア、タクレンの4人の魔術士が、ソスケル司令官に何が起こったのかを突き止めるために冒険を繰り広げます。シナリオ遠征を完了した後は、所有している<i>イーオンズエンド</i>の全コンテンツを使用して、カスタム遠征を無制限にプレイすることができます。
+Some of the content in <b>The New Age</b> will be initially locked until you complete the narrative expedition. Play through it to unlock several nemeses, mages, player cards, and more!=ニューエイジの一部のコンテンツは、物語上の探検を完了するまで初期ロックされています。プレイすることでいくつかのネメシス、魔術師、プレイヤーカードなどがアンロックされます。
+During each expedition you will come across <b>treasures</b>, a new card type. These are powerful items or weapons that you can use to strengthen your team in battle. But beware! The nemeses will also gain powerful <b>upgraded basic</b> nemesis cards to become even more dangerous.=遠征のたびに、新しいカードタイプである<b>トレジャー</b>に出会います。これらは強力なアイテムや武器で、バトルでチームを強化するために使用することができます。しかし、注意してください! 敵もまた、強力に <b>アップグレードされた基本</b>ネメシスカードを獲得し、さらに危険な存在となるのです。
+
+An important concept in Expedition Mode is the <b>Barracks.</b> All of the content you have access to for the current expedition is stored in the Barracks including player cards, mage mats, and treasure cards. In each battle, you will only be able to use content from your Barracks for that battle. Player cards you do not choose will be <b>banished</b> and are unavailable for the remainder of the expedition.=遠征モードにおける重要なコンセプトが <b>兵舎</b> です。兵舎には、プレイヤーカード、魔術師マット、トレジャーカードなど、その遠征で使用できるすべてのコンテンツが格納されています。各バトルで使用できるのは、そのバトルで使用した兵舎のコンテンツのみです。選択しなかったプレイヤーカードは<b>追放され</b> 、その後の遠征で使用することができなくなります。
+
+After the first battle of an Expedition, you will be able to select treasure cards in preparation for the game.=遠征の最初の戦闘の後、ゲームに備えて宝物カードを選択することができるようになります。
+
+<indent\=2.5%><b>Level 1:</b> For Battles 2-4, choose a level 1 treasure from the Barracks for each mage to use for that game.\n\n<indent\=5%>If the chosen treasure is a gem, it will replace a Crystal in the starting deck, if possible. Otherwise, a Spark will be replaced.\n\nIf the chosen treasure is a spell, it will replace a Spark in the starting deck, if possible. Otherwise, a Crystal will be replaced.\n\n<indent\=2.5%><b>Level 2:</b>  For Battles 3-4, choose a level 2 treasure from the Barracks to use for that game. Level 2 treasures are group treasures and are not assigned to any specific mage. During the game, any mage can use the group treasure.\n\n<indent\=2.5%><b>Level 3:</b> For Battle 4, choose a level 3 treasure from the Barracks for each mage to use in that game. Level 3 treasures may only be used by the mage that selected them.=<indent\=2.5%><b>レベル1：</b>バトル2-4では、そのゲームに使用する魔術師ごとに兵舎からレベル1の宝物を1つ選びます。選ばれた宝物が宝石の場合、可能であればスタートデッキのクリスタルと入れ替わります。\n\n<indent\=5%>そうでなければ、スパークと入れ替わります。選ばれた宝物が呪文であった場合、可能であればスタートデッキのスパークと入れ替わります。そうでない場合は、結晶と入れ替わります。\n\n<indent\=2.5%><indent\=2.5%><b>レベル2：</b>バトル3-4では、兵舎からレベル2のトレジャーを1枚選びます。レベル2のトレジャーはグループトレジャーであり、特定の魔術師に割り当てられるものではありません。ゲーム中、どの魔術師もグループトレジャーを使用することができます。\n\n<indent\=2.5%><indent\=2.5%><b>レベル3：</b>バトル4では、兵舎からレベル3のトレジャーを各魔術師に1つずつ選んでもらい、そのゲームで使用します。レベル3のトレジャーは、それを選んだ魔術師のみが使用することができます。
+
+Like the narrative expedition, custom expeditions consist of a series of battles against different nemeses. However, all of the Aeon's End content you have available can appear in custom expeditions.\n\nEach custom expedition begins with a randomized barracks: 4 mages, 3 gems, 2 relics, and 4 spells.\n\nThe nemesis for each battle is determined at random, with easier nemeses appearing in earlier battles and harder nemeses appearing in later battles. Depending on the content available and the expedition length, you may see a nemesis more than once in an expedition.=カスタム遠征は、シナリオ遠征と同じく、さまざまな敵とのバトルが繰り返されます。ただし、カスタム遠征では、利用可能なすべてのイーオンズエンドのコンテンツが登場することがあります。\n\n各カスタム遠征は、ランダムな兵舎から始まります。魔術士4人、宝石3個、遺物2個、呪文4個。\n\n各戦闘のネメシスはランダムで決定され、序盤の戦闘では簡単なネメシスが、後半の戦闘では難しいネメシスが登場します。入手できるコンテンツや遠征の長さによっては、1回の遠征で複数回のネメシスに遭遇することもあります。
+
+After you win a battle, you will find new treasures and player cards. If you lose a battle, you can choose between adding a mage, player card, or treasure (if available). You can retry the battle until you win as often as you like.=バトルに勝つと、新しいトレジャーやプレイヤーカードが手に入ります。戦闘に負けた場合、魔術士、プレイヤーカード、トレジャー(利用可能な場合)のいずれかを選んで追加することができます。勝つまで何度でもバトルに再挑戦できます。
+
+<b>Short Expedition:</b> In this expedition, you skip the first battle and begin with Level 1 treasures.\n\n<b>Extended Expedition:</b> In this expedition, you play eight battles. You receive treasures only after winning even numbered battles.\n\n<b>Big Pockets:</b> If you enable this option, unselected player cards are returned to your Barracks instead of being banished. Try this out for an easier custom expedition.=<b>短い遠征:</b> 最初の戦闘をスキップして、レベル1の宝物からスタートする遠征隊です。\n\n<b>拡張遠征:</b> 8回のバトルを行う遠征です。偶数回の戦闘に勝利した場合のみ、財宝を獲得できます。\n\n<b>ビッグポケット:</b>このオプションを有効にすると、未選択のプレイヤーカードは追放されずに兵舎に戻されます。より手軽に遠征を楽しむために、ぜひお試しください。
+
+At the end of a custom expedition, your total score will be calculated and posted on the leaderboards. Try for a new high score!\n\nYour score for each battle is based on the number of tries it took to win the battle. A multiplier is applied for the difficulty level on which you won the battle.\n\nFor example, if you win a battle on the second try at expert difficulty, you would earn 12 points (4 points times 3).=カスタム遠征の最後には、あなたのトータルスコアが計算され、リーダーボードに掲載されます。ハイスコアの更新を目指そう！\n\n各バトルのスコアは、そのバトルに勝つまでにかかったトライ数に基づいています。バトルに勝利した難易度に応じて、倍率が適用されます。\n\n例えば、エキスパートで2回目の挑戦で勝利した場合、4ポイント×3ポイントの12ポイントを獲得できます。
+
+# of Tries=# トライ回数
+base score=基礎点
+4 or more=4以上
+multiplier=乗数
+beginner=初心者
+1x=1x
+normal=通常
+2x=2x
+expert=エキスパート
+3x=3x
+extinction=絶滅
+4x=4x
+
+Using the <b>Big Pockets</b> option applies -1 point per battle (before difficulty multiplier) to a minimum of 0 points. Using the previous example, you would instead earn 9 points (3 points times 3) if Big Pockets was used.=<b>ビッグポケット</b>を使用すると、1回の戦闘で-1ポイント(難易度倍率前)、最小で0ポイントになります。先ほどの例では、ビッグポケットを使用した場合、代わりに9ポイント(3ポイント×3)を獲得することができます。
+
+// ソロゲーム(4/25) ※未和訳
+// ゲームプレイ(5/25) ※未和訳
+// 手番順(6/25) ※未和訳
+// プレイヤーの手番 概要(7/25) ※未和訳
+// プレイヤーの手番 呪文フェイズ(8/25) ※未和訳
+// プレイヤーの手番 メインフェイズ(9/25) ※未和訳
+// プレイヤーの手番 手札補充フェイズ(10/25) ※未和訳
+// ネメシスの手番 概要(11/25) ※未和訳
+// ネメシスの手番 メインフェイズ(12/25) ※未和訳
+// ネメシスの手番 ドローフェイズ(13/25) ※未和訳
+// 疲弊状態(14/25) ※未和訳
+// ゲーム終了(15/25) ※未和訳
+// プレイヤーマット(16/25) ※未和訳
+// プレイヤーカード(17/25) ※未和訳
+// 破孔(18/25) ※未和訳
+// ネメシスマット(19/25) ※未和訳
+// ネメシスカード(20/25) ※未和訳
+
+// 遠征モード(21/25)
+expedition mode - details=遠征モード - 詳細
+The Expedition system is an alternate way to play <i>Aeon's End</i> by sending a group of mages on a mission across multiple games. Your first expedition is a narrative adventure featuring content from <b>The New Age.</b> Subsequent custom expeditions can include any content you have access to!=遠征システムとは、複数のゲームにまたがって魔術士のグループをミッションに参加させることで、<i>イーオンズ・エンド</i>の別の遊び方を提供するものです。最初の遠征は、 <b>ニューエイジ</b>のコンテンツが登場するストーリーアドベンチャーです。その後の遠征は、あなたがアクセスできるあらゆるコンテンツを含むことができます！
+
+When a card is banished, it is removed from the game. Banished cards cannot be used again during the current expedition.=カードが追放されると、そのカードはゲームから取り除かれます。追放されたカードは、現在の遠征中に再び使用することはできま せん。
+
+The Barracks is where all of the content that is accessible for the current expedition is stored. This includes player cards, mage mats, and treasure cards.=兵舎には、現在の遠征隊がアクセスできるすべてのコンテンツが保管されています。プレイヤーカード、魔術師マット、宝物カードなどが含まれる。
+
+Throughout an expedition, you will collect treasure cards. These are\npowerful items or weapons that can be used to help mages in battle.=遠征先では、宝物カードを集めることができます。これらは\n強力なアイテムや武器で、魔術師を助けてくれます。
+
+More powerful basic nemesis cards are included in battles 2-4. These replace regular nemesis attack, minion, and power cards. The number of upgraded cards in each tier is given in the table below.=バトル2-4では、より強力な基本ネメシスカードが収録されています。これらは、通常のネメシスの攻撃カード、ミニオンカード、パワーカードに代わるものです。各段階のアップグレードカードの枚数は、下表のとおりです。
+
+Basic Nemesis Cards Upgraded=基本ネメシスカードのアップグレード
+Battle 1=バトル1
+Battle 2=バトル2
+Battle 3=バトル3
+Battle 4=バトル4
+Tier 1=階層1
+Tier 2=階層2
+Tier 3=階層3
+In solo play, the number of upgraded basic nemesis cards is limited to the number of basic cards that would normally be used.=ソロプレイでは、アップグレードされた基本ネメシスカードの枚数は、通常使用する基本カードの枚数までとなります。
+
+// 遠征モード 宝物(22/25)
+expedition mode - treasures=遠征モード - 宝物
+
+Treasure cards are powerful items or weapons that mages can use in battle. They are collected throughout an expedition and used from battles 2-4.=トレジャーカードは、魔術師が戦闘で使用できる強力なアイテムや武器です。遠征先で収集し、バトル2-4で使用することができます。
+
+Level 1 Treasures are gems and spells that are assigned to specific mages when setting up a new game. If a mage is assigned a Treasured Gem, it replaces a Crystal in their starting deck. If they are assigned a Treasured Spell, it replaces a Spark in their starting deck.=レベル1のトレジャーは、新しいゲームのセットアップ時に特定の魔術師に割り当てられる宝石や呪文です。 トレジャー宝石 "は "水晶 "と交換され、"トレジャー呪文 "は "スパーク "と交換されます。トレジャードスペルは、スパークと入れ替わってデッキに入ります。
+
+Level 2 treasures are group treasures which are not assigned to any specific mage. During a game, any mage can use the group treasure.=レベル2のトレジャーは、特定の魔術師に割り振られていないグループトレジャーです。ゲーム中、どの魔術師もグループトレジャーを使用することができます。
+
+A Level 3 Treasure is assigned to a specific mage when setting up a new game. During a game, a Level 3 Treasure can only be used by its assigned mage.=レベル3のトレジャーは、新しいゲームのセットアップ時に、特定の魔術師に割り当てることができます。ゲーム中、レベル3のトレジャーは、割り当てられた魔術師のみが使用することができます。
+
+During gameplay, you may review your selected Level 2 and Level 3 treasures by using the treasure chest button at the top of the screen.=ゲームプレイ中、画面上部の宝箱ボタンで、選択したレベル2、レベル3の宝物を確認することができます。
+
+// カードのハイライト(23/25)
+Card Highlights=カードのハイライト
+
+When you can click or drag to perform an action with a player card, a highlight is shown around it. The type of highlight can be a hint about what the action is.=プレイヤーカードをクリックまたはドラッグしてアクションを実行できると、その周囲にハイライトが表示されます。ハイライトの種類は、そのアクションが何であるかのヒントになります。
+
+General=汎用
+Gain Gem=宝石を獲得する
+Gain Relic=遺物を獲得する
+Gain Spell=呪文を獲得する
+
+Nemesis cards are also highlighted to show when they are acting on the nemesis turn. During your main phase, power cards are highlighted when you can click to perform their <b>TO DISCARD:</b> actions.=また、ネメシスカードは、ネメシスターンに行動しているときにハイライト表示されます。メインフェイズ中、パワーカードが強調表示され、クリックすると<b>廃棄:</b> アクションを実行することができます。
+
+Acting Minion=ミニオンを\n対象とする
+Acting Power=パワーを実行する
+To Discard:=廃棄：
+
+// ゲーム用語(24/25)
+game terms=ゲーム用語
+
+Attach\n=アタッチ
+Some relics attach to a breach when played. Relics cannot be attached to a breach that already has an attached relic, and attached relics are not discarded at the end of the turn. If an attached relic is discarded, it is placed in the discard pile of the mage whose breach it was attached to. If a breach with an attached relic is destroyed, the attached relic is discarded.=一部の遺物は、プレイされた時点で破孔に装着される。すでに遺物がついている破孔に遺物をつけることはできず、つけられた遺物はターン終了時に捨てられることはない。付属の遺物が捨てられた場合、その遺物は付属の破孔を持つ魔術士の捨山に置かれる。付属の遺物がある破孔が破壊された場合、その付属の遺物は捨てられる。
+
+Cards which are destroyed are permanently removed from the game and are not used or interacted with in any way once they are destroyed. You can view the destroyed cards at any time by clicking the button at the top right of the screen.\n=破壊されたカードは、ゲームから永久に取り除かれ、破壊された後は一切使用できず、効果の対象にもできなくなります。破壊されたカードは、画面右上のボタンをクリックすることで、いつでも確認することができます。\n
+
+Discard Order=捨てる順序
+When a spell is cast, it is immediately placed in your discard pile before resolving its effect. Cards gained are immediately placed in your discard pile.\r\n\r\nAny gem or relic cards that you play are placed in your play area. At the end of your turn, during the draw phase, you discard any played gem and relic cards in any order you choose.\r=呪文をキャストしたとき、その効果を解決する前にすぐにあなたの捨山に置かれます。獲得したカードは直ちにあなたの捨山に置かれます。\r\n\r\nあなたがプレイした宝石や遺物カードは、あなたのプレイエリアに置かれます。ターン終了後のドローフェイズに、プレイした宝石と遺物のカードを好きな順番で捨てます。
+
+Echo=エコー
+When a spell with Echo is cast, the effect is resolved twice. Any additional effects granted for casting the spell are added to both resolutions of the spell.=エコーを持つ呪文が唱えられると、その効果は2回解決される。その呪文を唱えることで付与される追加効果は、その呪文の両方の解決に追加される。
+
+Empty Supply\nPiles\n=空っぽのサプライの\n山
+If a supply pile runs out, it is empty and is not replaced.=サプライの山がなくなると空っぽになり、交換されない。
+
+Nemesis Tier=ネメシス階層
+The nemesis tier is the highest number in the tier section of any nemesis card in the nemesis discard pile or in play. This is typically the tier of the last card drawn from the nemesis deck.=ネメシス階層とは、ネメシス捨山やプレイ中のネメシスカードの層の欄の中で最も高い数値のことである。これは通常、ネメシスデッキから最後に引かれたカードの段数です。
+
+“OR” effects\r=「または」効果
+When a card gives two options separated by an “OR”, you may choose either option, unless you cannot fully resolve one of them. In that case, you must choose the effect that you can fully resolve.\r\n=カードが「または」で区切られた2つの選択肢を与えている場合、あなたはどちらかの選択肢を選ぶことができますが、一部でも解決できない処理を含む選択肢を選ぶことはできません。この場合、あなたは完全に解決できる方の効果を選ばなければなりません。
+
+Revealing Cards=カードを公開する
+When a card is revealed from the top of any deck, it is returned to the top of that deck. If more than one card is revealed, you can choose the order in which the cards are returned.=いずれかの山札の上からカードを公開した場合、そのカードはその山札の一番上に戻されます。複数のカードが公開された場合、あなたはカードを戻す順番を選ぶことができます。
+
+Tier 0=階層0
+Depending on which nemesis you're playing against, there may be other cards used besides the nemesis deck. These cards are marked as tier 0. Refer to the nemesis mat for specific instructions.=対戦するネメシスによっては、ネメシスデッキ以外のカードが使用されることがあります。これらのカードは階層0と表記されており、具体的な使用方法はネメシスマットを参照してください。
+
+“To Discard”="廃棄"
+Some nemesis power cards have <b>“TO DISCARD:”</b> effects on them. During your main phase, if you meet the condition, you may click on the card to resolve the effect following <b>“TO DISCARD:”</b> and discard that card from play. If you discard a power card this way, that card has no effect.=ネメシスパワーカードの中には、「廃棄:」の効果を持つカードがあります。あなたのメインフェイズに、条件を満たしていれば、そのカードをクリックして「廃棄:」に続く効果を解決し、そのカードをプレイから捨ててもかまいません。この方法でパワーカードを捨てた場合、そのカードは何の効果も持ちません。
+
+Some nemesis cards will say “Unleash.” Each nemesis has a unique effect that is resolved when this happens. This effect is listed on each nemesis mat.=ネメシスカードの中には、"暴走 "と書かれているものがあります。各ネメシスには、これが起こったときに解決される固有の効果がある。この効果は、それぞれのネメシスのマットに記載されています。
+
+// ゲーム用語(25/25)
+icon glossary=アイコン用語集
+All cards have a small size representation used in-game. Most have icons with a short form display of their effects. Note the short form may not include all details of an effect. You can always hover over or right click a card to see the full text.=すべてのカードは、ゲーム内で使用される小さなサイズで表現されています。ほとんどのカードには、その効果を示すアイコンがあり、簡単な形で表示されます。ただし、この簡易表示には、効果の詳細がすべて含まれていない場合があります。カードにカーソルを合わせたり、右クリックすることで、全文を見ることができます。
+
+general icons=汎用アイコン
+<sprite name\="Aether"><indent\=10%><size\=70%>Gain aether=<sprite name\="Aether"><indent\=10%><size\=70%>エーテルを得る
+<sprite name\="GainAetherGem"><indent\=10%><size\=70%>Gain aether that can only be used to gain gems=<sprite name\="GainAetherGem"><indent\=10%><size\=70%>宝石を得るためにのみ使用可能なエーテルを得る
+<sprite name\="GainAetherSpell"><indent\=10%><size\=70%>Gain aether that can only be used to gain spells=<sprite name\="GainAetherSpell"><indent\=10%><size\=70%>呪文を得るためにのみ使用可能なエーテルを得る
+<sprite name\="GainAetherRelic"><indent\=10%><size\=70%>Gain aether that can only be used to gain relics=<sprite name\="GainAetherRelic"><indent\=10%><size\=70%>遺物を得るためにのみ使用可能なエーテルを得る
+<sprite name\="GainAetherSupply"><indent\=10%><size\=70%>Gain aether that can only be used to gain cards from the supply=<sprite name\="GainAetherSupply"><indent\=10%><size\=70%>サプライからカードを得るためにのみ使用可能なエーテルを得る
+<sprite name\="GainAetherBreach"><indent\=10%><size\=70%>Gain aether that can only be used to focus or open a breach=<sprite name\="GainAetherBreach"><indent\=10%><size\=70%>破孔を強化または開放にのみ使用可能なエーテルを得る
+<sprite name\="GainAetherVortex"><indent\=10%><size\=70%>Gain aether that can only be used to gain vortex deck cards (Xae)=<sprite name\="GainAetherVortex"><indent\=10%><size\=70%>渦動デッキのカード(ザエ)にしか使えないエーテルを得る
+<sprite name\="ReduceAetherCost"><indent\=10%><size\=70%>Reduce the aether cost of an action=<sprite name\="ReduceAetherCost"><indent\=10%><size\=70%>アクションのエーテルコストを下げる
+<sprite name\="SpendAether"><indent\=10%><size\=70%>Spend aether to perform an action=<sprite name\="SpendAether"><indent\=10%><size\=70%>エーテルを消費してアクションを実行する
+<sprite name\="Charge"><indent\=10%><size\=70%>Gain a charge=<sprite name\="Charge"><indent\=10%><size\=70%>チャージを得る
+<sprite name\="ChargeAlly"><indent\=10%><size\=70%>Ally gains a charge=<sprite name\="ChargeAlly"><indent\=10%><size\=70%>味方はチャージを得る
+<sprite name\="LoseCharge"><indent\=10%><size\=70%>Lose a charge=<sprite name\="LoseCharge"><indent\=10%><size\=70%>チャージを失う
+<sprite name\="Damage"><indent\=10%><size\=70%>Deal damage=<sprite name\="Damage"><indent\=10%><size\=70%>ダメージを受ける
+<sprite name\="GraveholdDamage"><indent\=10%><size\=70%>Deal damage to Gravehold=<sprite name\="GraveholdDamage"><indent\=10%><size\=70%>グレイヴホールドはダメージを受ける
+<sprite name\="ReduceDamage"><indent\=10%><size\=70%>Reduce the amount of damage=<sprite name\="ReduceDamage"><indent\=10%><size\=70%>ダメージ量を軽減する
+<sprite name\="PreventDamage"><indent\=10%><size\=70%>Prevent damage=<sprite name\="PreventDamage"><indent\=10%><size\=70%>ダメージを防ぐ
+<sprite name\="Heal"><indent\=10%><size\=70%>Gain life=<sprite name\="Heal"><indent\=10%><size\=70%>体力を得る
+<sprite name\="GraveholdHeal"><indent\=10%><size\=70%>Gravehold gains life=<sprite name\="GraveholdHeal"><indent\=10%><size\=70%>グレイヴホールドは体力を得る
+<sprite name\="PlayGem"><indent\=10%><size\=70%>Play a gem=<sprite name\="PlayGem"><indent\=10%><size\=70%>宝石をプレイ1枚する
+<sprite name\="Destroy"><indent\=10%><size\=70%>Destroy a card=<sprite name\="Destroy"><indent\=10%><size\=70%>カードを1枚破壊する
+<sprite name\="Discard"><indent\=10%><size\=70%>Discard a card=<sprite name\="Discard"><indent\=10%><size\=70%>カードを1枚捨てる
+<sprite name\="Draw"><indent\=10%><size\=70%>Draw a card=<sprite name\="Draw"><indent\=10%><size\=70%>カードを1枚引く
+<sprite name\="AllyDraw"><indent\=10%><size\=70%>Ally draws a card=<sprite name\="AllyDraw"><indent\=10%><size\=70%>味方はカードを1枚引く
+<sprite name\="Prep"><indent\=10%><size\=70%>Prep a spell=<sprite name\="Prep"><indent\=10%><size\=70%>呪文をセットする
+<sprite name\="DoubleBreach"><indent\=10%><size\=70%>Prep to two breaches=<sprite name\="DoubleBreach"><indent\=10%><size\=70%>2つの破孔にセットする
+<sprite name\="Cast"><indent\=10%><size\=70%>Cast a prepped spell=<sprite name\="Cast"><indent\=10%><size\=70%>セットされた呪文をキャストする
+<sprite name\="WhilePrepped"><indent\=10%><size\=70%><b>"While prepped:"</b>=<sprite name\="WhilePrepped"><indent\=10%><size\=70%><b>「セット(準備中): 」</b>
+<sprite name\="Focus"><indent\=10%><size\=70%>Focus a breach=<sprite name\="Focus"><indent\=10%><size\=70%>破孔を強化する
+<sprite name\="DestroyBreach"><indent\=10%><size\=70%>Destroy a breach=<sprite name\="DestroyBreach"><indent\=10%><size\=70%>破孔を破壊する
+<sprite name\="Attach"><indent\=10%><size\=70%>Attach to a breach=<sprite name\="Attach"><indent\=10%><size\=70%>破孔にアタッチする
+<sprite name\="Echo"><indent\=10%><size\=70%><b>Echo:</b> spell effect is resolved twice=<sprite name\="Echo"><indent\=10%><size\=70%><b>エコー: </b> 呪文の効果は2回解決される
+<sprite name\="GainCard"><indent\=10%><size\=70%>Gain a card=<sprite name\="GainCard"><indent\=10%><size\=70%>カードを1枚引く
+<sprite name\="GainGem"><indent\=10%><size\=70%>Gain a gem =<sprite name\="GainGem"><indent\=10%><size\=70%>宝石を得る 
+<sprite name\="GainSpell"><indent\=10%><size\=70%>Gain a spell=<sprite name\="GainSpell"><indent\=10%><size\=70%>呪文を得る
+<sprite name\="GainRelic"><indent\=10%><size\=70%>Gain a relic=<sprite name\="GainRelic"><indent\=10%><size\=70%>遺物を得る
+<sprite name\="ManipulateCard"><indent\=10%><size\=70%>Move a card=<sprite name\="ManipulateCard"><indent\=10%><size\=70%>カードを移動する
+<sprite name\="ManipulateGem"><indent\=10%><size\=70%>Move a gem=<sprite name\="ManipulateGem"><indent\=10%><size\=70%>宝石を動かす
+<sprite name\="ManipulateTurnOrder"><indent\=10%><size\=70%>Move a turn order card=<sprite name\="ManipulateTurnOrder"><indent\=10%><size\=70%>ターン順カードを移動する
+<sprite name\="LoseDurability"><indent\=10%><size\=70%>Lose Durability=<sprite name\="LoseDurability"><indent\=10%><size\=70%>耐久性を失います
+<sprite name\="DrawNemesis"><indent\=10%><size\=70%>Nemesis draws a card=<sprite name\="DrawNemesis"><indent\=10%><size\=70%>ネメシスはカードを1枚引く
+<sprite name\="ToDiscard"><indent\=10%><size\=70%><b>"TO DISCARD:"</b>=<sprite name\="ToDiscard"><indent\=10%><size\=70%><b>"廃棄: "</b>
+<sprite name\="GainNemesisToken"><indent\=10%><size\=70%>Add nemesis token=<sprite name\="GainNemesisToken"><indent\=10%><size\=70%>ネメシストークンを追加する
+
+nemesis-specific icons=ネメシス固有のアイコン
+<sprite name\="AddHusk"><indent\=10%><size\=70%>Add a husk (Carapace Queen)=<sprite name\="AddHusk"><indent\=10%><size\=70%>殻の子を追加する(甲殻の女王)
+<sprite name\="DiscardHusk"><indent\=10%><size\=70%>Discard a husk (Carapace Queen)=<sprite name\="DiscardHusk"><indent\=10%><size\=70%>殻の子を捨てる(甲殻の女王)
+<sprite name\="Swarm"><indent\=10%><size\=70%>Swarm (Carapace Queen)=<sprite name\="Swarm"><indent\=10%><size\=70%>群舞(甲殻の女王)
+<sprite name\="GainCorruption"><indent\=10%><size\=70%>Gain a corruption (Crooked Mask)=<sprite name\="GainCorruption"><indent\=10%><size\=70%>堕落カードを得る(歪んだ仮面)
+<sprite name\="Devour"><indent\=10%><size\=70%>Devour cards (Prince of Gluttons)=<sprite name\="Devour"><indent\=10%><size\=70%>カードをむさぼる(暴食の公子)
+<sprite name\="DevourGem"><indent\=10%><size\=70%>Devour gems (Prince of Gluttons)=<sprite name\="DevourGem"><indent\=10%><size\=70%>宝石をむさぼる(暴食の公子)
+<sprite name\="DevourRelic"><indent\=10%><size\=70%>Devour relics (Prince of Gluttons)=<sprite name\="DevourRelic"><indent\=10%><size\=70%>遺物をむさぼる(暴食の公子)
+<sprite name\="DevourSpell"><indent\=10%><size\=70%>Devour spells (Prince of Gluttons)=<sprite name\="DevourSpell"><indent\=10%><size\=70%>呪文をむさぼる(暴食の公子)
+<sprite name\="Strike"><indent\=10%><size\=70%>Strike (Rageborne)=<sprite name\="Strike"><indent\=10%><size\=70%>ストライク(レイジボーン)
+<sprite name\="GainTainted"><indent\=10%><size\=70%>Gain a Tainted Jade (Blight Lord)=<sprite name\="GainTainted"><indent\=10%><size\=70%>汚れた翡翠を得る(荒廃の支配者)
+<sprite name\="AdvanceTainted"><indent\=10%><size\=70%>Advance the Tainted Track (Blight Lord)=<sprite name\="AdvanceTainted"><indent\=10%><size\=70%>汚染トラックを前進させる(荒廃の支配者)
+<sprite name\="AlignedII"><indent\=10%><size\=70%>Aligned to II (Wayward One)=<sprite name\="AlignedII"><indent\=10%><size\=70%>IIに整列(我執体)
+<sprite name\="AlignedIII"><indent\=10%><size\=70%>Aligned to III (Wayward One)=<sprite name\="AlignedIII"><indent\=10%><size\=70%>IIIに整列(我執体)
+<sprite name\="AlignedIV"><indent\=10%><size\=70%>Aligned to IV (Wayward One)=<sprite name\="AlignedIV"><indent\=10%><size\=70%>IVに整列(我執体)
+<sprite name\="Exile"><indent\=10%><size\=70%>Exile a card (Ageless Walker)=<sprite name\="Exile"><indent\=10%><size\=70%>カードを追放する(不死渡り)
+<sprite name\="TheEnd"><indent\=10%><size\=70%>The ritual is complete (Arachnos)=<sprite name\="TheEnd"><indent\=10%><size\=70%>儀式の完遂(アラクノス)
+<sprite name\="PlacePosition"><indent\=10%><size\=70%>Place a position token (Fenrix)=<sprite name\="PlacePosition"><indent\=10%><size\=70%>ポジショントークンを配置する(フェンリックス)
+<sprite name\="ReturnPosition"><indent\=10%><size\=70%>Return a position token (Fenrix)=<sprite name\="ReturnPosition"><indent\=10%><size\=70%>ポジショントークンを返す(フェンリックス)
+<sprite name\="PreventPosition"><indent\=10%><size\=70%>Prevent placing position tokens (Fenrix)=<sprite name\="PreventPosition"><indent\=10%><size\=70%>ポジショントークンの配置を防ぐ(フェンリックス)
+<sprite name\="PlayClaw"><indent\=10%><size\=70%>Play a Claw (Fenrix)=<sprite name\="PlayClaw"><indent\=10%><size\=70%>爪をプレイする(フェンリックス)
+
+<sprite name\="Maggot"><indent\=10%><size\=70%>Add a Maggot (Maggoth)=<sprite name\="Maggot"><indent\=10%><size\=70%>ウジを追加する(マグゴス)
+<sprite name\="Fly"><indent\=10%><size\=70%>Add a Fly (Maggoth)=<sprite name\="Fly"><indent\=10%><size\=70%>ハエを追加する(マグゴス)
+

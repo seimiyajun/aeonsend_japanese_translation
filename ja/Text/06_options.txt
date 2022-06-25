@@ -1,0 +1,13 @@
+﻿Resolution=解像度
+Sign Out=サインアウト
+Slow=遅い
+Fast=速い
+Long=長い
+Full Screen=全画面表示
+Confirm Ending Main Phase=メインフェーズの終了を確認する
+Automatically End Main Phase=メインフェーズを自動的に終了する
+Music Volume=音楽のボリューム
+Effects Volume=効果音のボリューム
+Animation Speed=アニメーションスピード
+Card Display Time=カードの表示時間
+

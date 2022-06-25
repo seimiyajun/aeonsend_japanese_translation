@@ -1,0 +1,6 @@
+﻿//カスタマイズ
+Card Sleeves=カードスリーブ
+Player=プレイヤー
+Nemesis=ネメシス
+Playmats=プレイマット
+Skins=スキン
