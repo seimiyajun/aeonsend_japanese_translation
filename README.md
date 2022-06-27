@@ -20,10 +20,11 @@
   - Wave4
   - Upgrade Basic
 - ネメシス
-  - Ageless Walker
-  - Arachnos
-  - Blight Lord
-  - Fenrix
+  - Ageless Walker（不死渡り）
+  - Arachnos（アラクノス）
+  - Blight Lord（荒廃の支配者）
+  - Fenrix（フェンリックス）
+  - Carapace Queen（甲殻の女王）
  - プレイヤーカード
    - 未着手
  - 破孔魔術師固有カード
