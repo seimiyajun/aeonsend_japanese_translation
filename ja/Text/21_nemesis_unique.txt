@@ -194,3 +194,66 @@ Gain 2 <sprite name\="Aether" color\=#FFFFFF>. Suffer 1 damage.\r\n<b>OR</b>\r\n
 
 <i>"The tainted jade calls to those weak enough to listen."</i> <smallcaps>Ghan, Gem Scavenger</smallcaps>=<i>「汚れた翡翠は、耳を傾けるだけの弱い者に呼びかける。」</i> <smallcaps>宝石採掘者 ガーン</smallcaps>
 
+
+// Carapace Queen 甲殻の女王
+//マット
+Place two husks into play.=殻の子2体を場に出す。
+<b><allcaps><size\=105%>unleash:</size></allcaps></b> Place three husks into play instead of two.=<b><allcaps><size\=105%>暴走: </size></allcaps></b> 殻の子を2体ではなく、3体を場に出す。
+Each husk is a minion that has 1 life.\r\nWhen a husk is placed into play, it goes in the next available space on the Husk Track.\r\nWhen a player deals damage to a husk, that player may suffer 1 damage to distribute the damage dealt over multiple husks.\r\nWhen 甲殻の女王 has fifteen husks in play and must place another into play, Gravehold suffers 1 damage instead.\r\nWhen 甲殻の女王 Swarms, the Swarm effect based on the number of husks in play is resolved.=それぞれの殻の子は、体力が1のミニオンとなる。<br>殻の子が場に出されたとき、それは殻の子トラックの次の空いているスペースに置かれる。<br>プレイヤーが殻の子にダメージを与える時、手番プレイヤーは1ダメージを受けて与えるダメージを複数の殻の子に分散させてもよい。<br>殻の子が15体場に出されていて、さらにもう1個場に出さなければならないとき、殻の子を出す代わりにグレイヴホールドは1ダメージを受ける。<br>甲殻の女王が群踊をするとき、場に出ている殻の子の数に応じた効果を解決する。
+
+Two husks are placed into play on the first two spaces of the Husk Track.=殻の子2体を殻の子トラックの最初の2つのスペースに配置する。
+
+Husk Track=殻の子トラック
+Swarm Effect=群舞の効果
+Place 4 husks into play.=殻の子4体を場に出す
+プレイヤー1人 discards a prepped spell. Place 2 husks into play.=プレイヤー1人はセットしている呪文１枚を捨てる。殻の子2体を場に出す
+The player with the lowest life suffers 3 damage. Discard a husk.=体力が最も少ないプレイヤーは3ダメージを受ける。殻の子1体を捨てる
+
+Swarm: Place four husks into play.=群舞: 殻の子4体を場に出す
+Swarm: プレイヤー1人 discards a prepped spell. Place two husks into play.=群舞: プレイヤー1人はセットしている呪文１枚を捨てる。殻の子2体を場に出す。
+Swarm: Gravehold suffers 5 damage.=群舞: グレイヴホールドは5ダメージを受ける。
+Swarm: The player with the lowest life suffers 3 damage. Discard a husk.=群舞: 体力が最も少ないプレイヤーは3ダメージを受ける。殻の子1体を捨てる。
+Swarm: The players lose.=群舞: プレイヤーたちはゲームに敗北する。
+
+Damage 1 husk=殻の子1体にダメージ
+r:"^Suffer 1 damage to damage ([0-9]+) husks"=1ダメージ受けて$1体の殻の子にダメージを与える
+
+Broodwomb=子宮雛
+If there is at least one husk in play, prevent all damage dealt to this minion.\r\n<b>PERSISTENT:</b> Place a husk into play.=少なくとも1体以上の殻の子が場に出ている場合、このミニオンにはダメージを与えられない。<br><b>継続: </b>殻の子1体を場に出す。
+It is the husk-mother, spewing multitudes through the void into Gravehold.=それは「殻の子」の母であり、「グレイヴホールド」へと大群を送り込んでいる。
+
+Endless Throng=無限の群れ
+甲殻の女王 Swarms.=甲殻の女王の群舞。
+<i>"The Queen, she is the worst of their foul lot, for her young are without number."</i> <smallcaps>ミスト, Breach Mage Dagger Captain</smallcaps>=<i>「女王は最も邪悪な存在であり、その若者は数え切れないほどいる。」</i> <smallcaps>ミスト、破孔魔術師ダガーキャプテン</smallcaps>
+
+Hatch= 孵化
+Place a husk into play for each turn order card in the turn order discard pile.=ターン順カードの捨て山にあるターン順カード1枚につき、殻の子1体を場に出す。
+The Queen wears her offspring like some writhing armor.=女王は彼女の子孫を身もだえする鎧のように着ています。
+
+Blot the Sun=太陽を吸い取る
+<b>TO DISCARD:</b> Lose 4 charges.\r\n<b>POWER 2:</b> 甲殻の女王 Swarms. Unleash. 甲殻の女王 Swarms.=<b>廃棄: </b> 4チャージを消費する。<br><b>パワー2:</b> 甲殻の女王の群舞。<br>暴走。<br>甲殻の女王の群舞。
+<i>"Were we still in The World That Was, these wretched things would envelop the very sky."</i> <smallcaps>マラスター, Breach Mage Mentor</smallcaps>=<i>もし、私たちがまだ "過去だった世界 "にいたなら、これらの惨めなものが空を包んでいたことでしょう。</i> <smallcaps>マラスター、破孔魔術師のメンター</smallcaps>
+
+Foul Multitudes=不快増幅
+Husks have 2 life.\r\nDamaged husks heal to full life at the end of each turn.\r\n<b>IMMEDIATELY:</b> Unleash.\r\n<b>POWER 3:</b> 甲殻の女王 Swarms.=殻の子の体力は2になる。<br>ダメージを受けた殻の子は各ターン終了時に体力を全回復する。<br><b>即時: </b> 暴走。<br><b>パワー3: </b> 甲殻の女王の群舞。
+It took the survivors of Gravehold half-a-moon to shovel up the dead husks and carry them into the depths, where they now lie in piles high enough to touch the tops of the cave vaults.=グレイヴホールドの生存者たちは、半月かけて殻の子の死骸をかき集め、地下に運び込んだ。今では洞窟の丸天井の頂上に触れるほど高く積み上げられた死骸がそこにある。
+
+Infest=感染
+甲殻の女王 Swarms twice.\r\n<b>OR</b>\r\nプレイヤー1人 suffers 4 damage.=甲殻の女王の群舞(2回)。<br><b>または</b><br>プレイヤー1人は4ダメージを受ける。
+<i>"Husks are easy enough to dispatch...one on one, that is."</i> <smallcaps>ラッシュ, Breach Mage Scout</smallcaps>=<i>「殻の子は簡単に倒せる...一対一ならね。」</i> <smallcaps>ラッシュ、破孔魔術師スカウト</smallcaps>
+
+甲殻の女王 Swarms twice=甲殻の女王の群舞(2回)
+
+
+Legion Beacon=大群誘導
+<b>IMMEDIATELY:</b> Unleash twice.\r\n<b>POWER 2:</b> Discard half of the husks in play, rounded up. Gravehold suffers 2 damage for each husk discarded this way. 甲殻の女王 Swarms.=<b>即時: </b> 暴走(2回)。<br><b>パワー2: </b> 場に出ている殻の子の半分を捨てる(端数切り上げ)。<br>グレイヴホールドはこの方法で捨てられた殻の子1枚につき2ダメージを受ける。<br>甲殻の女王の群舞。
+Gravehold knows when the Queen is near, for the claxon call of her legions echoes throughout the cave.=グレイヴホールドは女王が近くにいることを知る。女王の軍団の鳴き声が洞窟中に響き渡るからである。
+
+Maggot Engine=蛆動力機
+<b>IMMEDIATELY:</b> Unleash three times. Then, set this minion's life equal to twice the number of husks in play.\r\n<b>PERSISTENT:</b> Swarm.=<b>即時: </b> 暴走(3回)。<br>その後、このミニオンの体力を、場に出ている殻の数の2倍に等しくする。<br><b>継続: </b>甲殻の女王の群舞。
+<i>"Which end is the head?"</i> <smallcaps>ニム, Breach Apprentice</smallcaps>=<i>「どちらの端が頭なんだ?」</i> <smallcaps>ニム、破孔魔術師 見習い</smallcaps>
+
+Spawn=放卵
+甲殻の女王 Swarms.\r\nUnleash.\r\n甲殻の女王 Swarms.=甲殻の女王の群舞。<br>暴走。<br>甲殻の女王の群舞。
+<i>"The sound of the things, skittering across the cave walls, is loud enough to drown our screams."</i> <smallcaps>Nerva, Survivor</smallcaps>=<i>「洞窟の壁を飛び交うその音は、私たちの悲鳴をかき消すほどの大きさだ。」</i> <smallcaps>ネルヴァ、生存者</smallcaps>
+

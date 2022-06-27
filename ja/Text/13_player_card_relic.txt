@@ -1,4 +1,9 @@
 ﻿// コスト3
 Galvanized Bauble=ガルバリウムの泡
-Focus any ally's breach.\r\n<b>OR</b>\r\nCast any player's prepped spell. You may destroy it.=仲間1人の破孔を強化する。\r\n<b>または</b>\r\n任意のプレイヤーのセットしている呪文をキャストする。さらにそれを破壊してもよい。
+Focus any ally's breach.\r\n<b>OR</b>\r\nCast プレイヤー1人's prepped spell. You may destroy it.=仲間1人の破孔を強化する。<br><b>または</b><br>任意のプレイヤーのセットしている呪文1つをキャストする。さらにそれを破壊してもよい。
 <i>"I think I knew this relic once. I was happier then."</i> <smallcaps>Lost</smallcaps>=<i>"この遺物はかつて知っていたと思う その時はもっと幸せだった"</i> <smallcaps>ロスト</smallcaps>
+
+// コスト7
+Well of Energy=活力の泉
+Gravehold gains 2 life.\r\n<b>OR</b>\r\nプレイヤー1人 gains 2 life.=グレイヴホールドは体力2を得る。<br><b>または</b><br>プレイヤー1人は体力2を得る。
+<i>"Very well, I'll stay back this time. Take this at least, to restore you."</i> <smallcaps>Mazra</smallcaps>=<i>「よかろう、今回は控えておこう、せめてこれだけでも、お前を回復させるために」</i> <smallcaps>マズラ</smallcaps>

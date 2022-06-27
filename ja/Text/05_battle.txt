@@ -18,7 +18,13 @@ Click a card in hand to discard it.=手札のカードをクリックしてそ�
 Click a power card\nto perform the\nTo Discard actions.=パワーカードをクリックして、破棄アクションを実行する。
 Click a card in your hand or discard to destroy it.=手札・捨札のカードをクリックしてそのカードを破壊する。
 Click a card to select it.=カードをクリックして選択する。
+Click or drag a card to your discard below.=カードをクリックするか、下の捨て札にドラッグする。
 Drag a spell from a breach to an enemy to cast it.=呪文を破孔から敵にドラッグしてキャストする。
+Drag a spell from a breach on the right to an enemy to cast it.=呪文を右の破孔から敵にドラッグしてキャストする
+Unleash three times=暴走(3回)
+
+Do not destroy it=破壊しない
+
 Click or \ndrag a spell\nto a breach\nto prep it.=<size\=60%>呪文をクリックまたはドラッグして破孔にセットする。</size>
 r:"<sprite name\\=\"GainAether\"><space\\=-1\.1em><sprite name\\=\"([0-9])\"> Focus"=<sprite name\>="GainAether"><space\=-1.1em><sprite name\="$1"> 強化
 r:"<sprite name\\=\"GainAether\"><space\\=-1\.1em><sprite name\\=\"([0-9])\"> Open"=<sprite name\>="GainAether"><space\=-1.1em><sprite name\="$1"> 開放
@@ -28,6 +34,8 @@ r:"Destroy ([0-4]) cards in hand"=手札から$1枚破壊する
 
 Warning: you can take more actions!=警告:まだ行動できます
 End Anyway=構わず終わらせる
+
+Skip Discard=捨てるをスキップ
 
 
 // 破孔
@@ -49,18 +57,21 @@ r:"^(.+) destroys cards"=$1がカードを破壊する
 
 r:"^(.+) gains ([0-9]) life"=$1は体力$2を得る
 r:"^(.+) gains life"=$1は体力を得る
-r:^Suffer ([0-9]) damage=$1ダメージを受ける
-r:"^([^ ]+) suffers ([0-9]) damage"=$1は$2ダメージを受ける
-r:"^Gravehold suffers ([0-9]) damage"=グレイヴホールドは$1ダメージを受ける
+r:^Suffer ([0-9]) damage$=$1ダメージを受ける
+r:"^Suffer damages"=ダメージを受ける
+r:"^([^ ]+) suffers ([0-9]) damage$"=$1は$2ダメージを受ける
+r:"^Gravehold suffers ([0-9]) damage$"=グレイヴホールドは$1ダメージを受ける
 
 r:"^The player with the lowest life suffers ([0-9]) damage."=最も体力の低いプレイヤーは$1ダメージを受ける
 
+r:"Shuffle turn order cards"=ターンオーダーカードをシャッフルする
 
 r:"^< ([0-9]) <sprite name\="Aether">=< $1 <sprite name\="Aether">(エーテル)。
 
 r:"^(.+) places the card on their discard pile"=そのカードを$1の捨て山に置く
 
-r:"Congratulations, you have destroyed (.+)! Gravehold still stands... for now..."=おめでとう!$1を討伐した! グレイヴホールドはまだ残っている...今のところは...
+r:"Congratulations, you have destroyed (.+)! Gravehold still stands... for now..."=おめでとう!$1を討伐した!<br>グレイヴホールドはまだ残っている...今のところは...
+r:"Congratulations, you have defeated (.+)! Gravehold still stands... for now..."=おめでとう!$1を撃退した!<br>グレイヴホールドはまだ残っている...今のところは...
 
 
 Revealed Cards=公開されたカード
@@ -73,8 +84,10 @@ Game Over: Victory!=ゲーム終了: 勝利!
 Game Over: Defeat...=ゲームオーバー: 敗北...
 
 The nemesis has no cards in its deck and no minions or powers in play.=ネメシスデッキは空になり、ミニオンもパワーも場に出ていない。
-The nemesis has 0 life.=ネメシスの体力が0になった
-Gravehold is destroyed...=グレイヴホールドが破壊された...
+The nemesis has 0 life.=ネメシスの体力が0になった。
+Gravehold has 0 life.=グレイヴホールドの体力が0になった。
+
+Gravehold is destroyed...=グレイヴホールドは破壊された...
 (click to continue)=(クリックで続行)
 
 Try\nAgain=再挑戦

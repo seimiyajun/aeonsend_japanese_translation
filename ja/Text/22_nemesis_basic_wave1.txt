@@ -62,6 +62,9 @@ Pulverizing Ray=粉砕光線
 <b>POWER 1:</b> Gravehold suffers 3 damage.\r\n<b>OR</b>\r\nプレイヤー1人 discards a gem in hand.\r\nRepeat this 5 additional times.=<b>パワー1: </b> グレイヴホールドは3ダメージを受ける。<br><b>または</b><br>プレイヤー1人は手札の宝石を1つ捨てる。<br><br>さらに上記の選択を5回繰り返す。
 <i>"The ground absorbed the latent energy left by the first breaches ever opened. Without this to fuel our spells, our fate would be certain."</i> <smallcaps>Malastar, Breach Mage Mentor</smallcaps>=<i>"最初の破孔が残した潜在的なエネルギーを 大地が吸収したのだ このエネルギーがなければ、我々の呪文は使えない。</i> <smallcaps>マラスター、破孔魔術師のメンター</smallcaps>
 
+r:"^Gravehold suffers 3 damage \(([0-6])\/6\)$"=グレイヴホールドは3ダメージを受ける($1/6)
+r:"^(.+) discards a gem in hand \(([0-6])\/6\)$"=$1は手札の宝石1枚を捨てる($2/6)
+
 Eye of Nothing=無の目
 <b>TO DISCARD:</b> Spend 6 <sprite name\="Aether" color\=#FFFFFF>.\r\n<b>POWER 2:</b> Unleash twice.=<b>廃棄: </b> 6<sprite name\="Aether" color\=#FFFFFF>を消費する <br><b>パワー2: </b>暴走(2回)。
 <i>"We toy with forces we barely comprehend."</i> <smallcaps>Z'hana, Breach Mage Renegade</smallcaps>=<i>"我々はかろうじて理解できる力をもてあそんでいる"</i> <smallcaps>ザーナ、追放の破孔魔術師</smallcaps>
